@@ -9,6 +9,7 @@ export const siteConfig: SiteConfig = {
     { label: '首页', href: '/' },
     { label: '作品集', href: '/gallery' },
     { label: '今日运势', href: '/tarot' },
+    { label: '水晶DIY', href: '/diy' },
     { label: '关于我们', href: '/about' },
     { label: '联系我们', href: '/contact' },
   ],

@@ -7,6 +7,7 @@ import { HomePage } from '@/pages/HomePage'
 import { GalleryPage } from '@/pages/GalleryPage'
 import { TarotPage } from '@/pages/TarotPage'
 import { TarotCardsPage } from '@/pages/TarotCardsPage'
+import { DiyPage } from '@/pages/DiyPage'
 import { AboutPage } from '@/pages/AboutPage'
 import { ContactPage } from '@/pages/ContactPage'
 
@@ -25,6 +26,7 @@ export const App = () => {
           <Route element={<PageTransition />}>
             <Route index element={<HomePage />} />
             <Route path="gallery" element={<GalleryPage />} />
+            <Route path="diy" element={<DiyPage />} />
             <Route path="about" element={<AboutPage />} />
             <Route path="contact" element={<ContactPage />} />
           </Route>
