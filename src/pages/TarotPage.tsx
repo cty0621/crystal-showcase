@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import { HandTracker } from '@/components/pages/tarot/HandTracker'
 import { CardSpread } from '@/components/pages/tarot/CardSpread'
 import { GestureGuide } from '@/components/pages/tarot/GestureGuide'
+import { AiAssistant } from '@/components/pages/tarot/AiAssistant'
 import { Sparkles, Monitor, Shuffle } from 'lucide-react'
 
 export const TarotPage = () => {
@@ -117,6 +118,9 @@ export const TarotPage = () => {
           </motion.button>
         )}
       </div>
+
+      {/* AI 小助手 · 生辰八字今日运势 */}
+      <AiAssistant />
     </section>
   )
 }
