@@ -23,7 +23,7 @@ export interface GalleryItem {
   description: string
   image: string
   material: string
-  model3d?: string  // 可选 3D 模型路径，如 '/assets/models/ring.glb'
+  model3d?: string  // 可选 3D 模型路径，如 `${import.meta.env.BASE_URL}assets/models/ring.glb`
 }
 
 export interface Milestone {
@@ -58,8 +58,8 @@ export interface TarotCard {
   }
   color: string
   shape: string
-  image?: string      // 自定义正面图，如 '/assets/textures/tarot/sun.png'
-  backImage?: string  // 自定义背面图，如 '/assets/textures/tarot/back.png'
+  image?: string      // 自定义正面图，如 `${import.meta.env.BASE_URL}assets/textures/tarot/sun.png`
+  backImage?: string  // 自定义背面图，如 `${import.meta.env.BASE_URL}assets/textures/tarot/back.png`
 }
 
 export interface SiteConfig {

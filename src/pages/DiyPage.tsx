@@ -110,7 +110,7 @@ export const DiyPage = () => {
     <div className="relative" style={{ height: 'calc(100vh - 4rem)', marginTop: '4rem' }}>
       <iframe
         ref={iframeRef}
-        src="/diy.html"
+        src={`${import.meta.env.BASE_URL}diy.html`}
         className="w-full h-full border-0"
         title="水晶DIY定制设计器"
         onLoad={() => handleIframeLoad()}

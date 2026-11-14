@@ -7,7 +7,7 @@ export const ValueProposition = () => {
         <div className="grid grid-cols-2 gap-20 items-center">
           <ScrollReveal direction="left">
             <div className="aspect-[4/5] rounded-2xl overflow-hidden border border-white/[0.06]">
-              <img src="/assets/textures/about/豆包 (2).png" alt="" className="w-full h-full object-cover" />
+              <img src={`${import.meta.env.BASE_URL}assets/textures/about/豆包 (2).png`} alt="" className="w-full h-full object-cover" />
             </div>
           </ScrollReveal>
 

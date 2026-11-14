@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
+  // 相对 base：构建产物可部署在站点根或任意子目录（如 Gitee Pages）
+  base: './',
   plugins: [react()],
   resolve: {
     alias: {

@@ -36,7 +36,7 @@ export default function CrystalSidebar({
               <span className="master-item-icon">
                 <img
                   className="master-item-icon-img"
-                  src={`/assets/textures/products/${cat.img}`}
+                  src={`${import.meta.env.BASE_URL}assets/textures/products/${cat.img}`}
                   alt={cat.name}
                 />
               </span>

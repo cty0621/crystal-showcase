@@ -69,7 +69,7 @@ export const ModelViewer = ({ modelPath, mode = 'default' }: Props) => {
 
     // 加载模型（draco 压缩模型需要 DRACOLoader 解码，解码器本地加载）
     const draco = new DRACOLoader()
-    draco.setDecoderPath('/draco/')
+    draco.setDecoderPath(`${import.meta.env.BASE_URL}draco/`)
     draco.preload()
     const loader = new GLTFLoader()
     loader.setDRACOLoader(draco)

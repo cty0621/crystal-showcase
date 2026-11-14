@@ -58,7 +58,7 @@ export const HandTracker = ({ enabled, onHandMove, onShuffle }: HandTrackerProps
         }
 
         const hands = new window.Hands({
-          locateFile: (file: string) => `/mediapipe/${file}`,
+          locateFile: (file: string) => `${import.meta.env.BASE_URL}mediapipe/${file}`,
         })
 
         hands.setOptions({

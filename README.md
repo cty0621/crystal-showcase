@@ -100,9 +100,14 @@ npm run preview
 
 ## 部署注意事项
 
-- **必须部署在站点根目录**：所有资源与路由使用 `/` 开头的站点根路径；若部署在子路径（如 `http://host/sub/`），需在 `vite.config.ts` 配置 `base`、给资源路径加前缀，并给 React Router 设置 `basename`。
-- **SPA 路由回退**：Apache / Nginx 需把所有路径回退到 `index.html`（`/gallery`、`/tarot`、`/diy` 等是前端路由）。
-- 静态部署 `dist/` 即可，无需 Node 环境。
+- **支持站点根与任意子目录部署**：项目使用相对 `base`（`./`）+ Hash 路由（`/#/gallery`）+ `BASE_URL` 资源前缀，`dist/` 目录放到哪里都能跑，无需服务端配置。
+- **Gitee Pages 部署**（推荐，免费 + 国内直连 + HTTPS）：
+  1. `npm run build` 生成 `dist/`；
+  2. 把 `dist/` 内容推到 `pages` 分支：`git checkout --orphan pages && git rm -rf . && cp -r dist/* . && git add -A && git commit -m "deploy" && git push -u origin pages`；
+  3. Gitee 仓库 →「服务」→「Gitee Pages」→ 部署分支选 `pages` → 启动；
+  4. 访问 `https://<用户名>.gitee.io/<仓库名>/`（需账号完成实名认证）。
+- **自建服务器**：Apache / Nginx 指向 `dist/` 即可；Hash 路由无需回退配置。
+- 静态部署无需 Node 环境。
 
 ## 资源路径映射
 

@@ -159,7 +159,7 @@ export default function ProductDisplay({
                   return (
                     <image
                       key={`img-${bead.id}`}
-                      href={`/assets/textures/products/${bead.img}`}
+                      href={`${import.meta.env.BASE_URL}assets/textures/products/${bead.img}`}
                       x={pos.x - HALF_BEAD}
                       y={pos.y - HALF_BEAD}
                       width={BEAD_SIZE}

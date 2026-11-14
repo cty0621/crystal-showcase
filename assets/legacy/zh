@@ -5,17 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crystal Weave - 在线 DIY 定制水晶手串设计器 | Annflora</title>
     <meta name="description" content="使用 Annflora 在线拖拽设计你的专属水晶疗愈手串。浏览水晶分类、长按预览细节、自由组合，实时查看手围与价格。">
-    <link rel="icon" type="image/png" href="/favicon.png">
-    <link rel="preload" href="/fonts/prata-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="icon" type="image/png" href="./favicon.png">
+    <link rel="preload" href="./fonts/prata-latin-400.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="canonical" href="/zh/" >
     <link rel="alternate" hreflang="en" href="/" >
     <link rel="alternate" hreflang="zh-CN" href="/zh/" >
-  <script type="module" crossorigin src="/assets/legacy/main-TXzq3LhF.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/legacy/main-C2jVtSls.css">
+  <script type="module" crossorigin src="./assets/legacy/main-TXzq3LhF.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/legacy/main-C2jVtSls.css">
 </head>
 <body>
     <div id="app"></div>
 
-    <script src="/js/bracelet.js"></script>
+    <script src="./js/bracelet.js"></script>
 </body>
 </html>

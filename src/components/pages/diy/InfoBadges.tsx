@@ -11,7 +11,7 @@ export function InfoBadges({ wristSize, price }: InfoBadgesProps) {
       <div className="info-badge size-badge">
         <img
           className="badge-icon"
-          src="/assets/textures/icons/hand.svg"
+          src={`${import.meta.env.BASE_URL}assets/textures/icons/hand.svg`}
           alt="Hand"
           width={24}
           height={24}
@@ -24,7 +24,7 @@ export function InfoBadges({ wristSize, price }: InfoBadgesProps) {
       <div className="info-badge price-badge">
         <img
           className="badge-icon"
-          src="/assets/textures/icons/dollar.svg"
+          src={`${import.meta.env.BASE_URL}assets/textures/icons/dollar.svg`}
           alt="Price"
           width={24}
           height={24}

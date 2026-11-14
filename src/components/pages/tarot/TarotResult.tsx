@@ -12,14 +12,14 @@ const groupLabels: Record<string, string> = {
 interface TarotResultProps { card: TarotCard; onReset: () => void }
 
 const crystalImages: Record<string, string> = {
-  '月光石':'/assets/textures/products/prod_034.webp','红玛瑙':'/assets/textures/products/prod_017.webp',
-  '白水晶':'/assets/textures/products/prod_052.webp','蓝晶':'/assets/textures/products/prod_039.webp',
-  '黄水晶':'/assets/textures/products/prod_088.webp','黑曜石':'/assets/textures/products/prod_028.webp',
-  '绿幽灵':'/assets/textures/products/prod_019.webp','紫水晶':'/assets/textures/products/prod_067.webp',
-  '虎眼石':'/assets/textures/products/prod_084.webp','茶晶':'/assets/textures/products/prod_073.webp',
-  '石榴石':'/assets/textures/products/prod_045.webp','海蓝宝':'/assets/textures/products/prod_039.webp',
-  '粉水晶':'/assets/textures/products/prod_064.webp','红纹石':'/assets/textures/products/prod_078.webp',
-  '草莓晶':'/assets/textures/products/prod_076.webp','橄榄石':'/assets/textures/products/prod_043.webp',
+  '月光石':`${import.meta.env.BASE_URL}assets/textures/products/prod_034.webp`,'红玛瑙':`${import.meta.env.BASE_URL}assets/textures/products/prod_017.webp`,
+  '白水晶':`${import.meta.env.BASE_URL}assets/textures/products/prod_052.webp`,'蓝晶':`${import.meta.env.BASE_URL}assets/textures/products/prod_039.webp`,
+  '黄水晶':`${import.meta.env.BASE_URL}assets/textures/products/prod_088.webp`,'黑曜石':`${import.meta.env.BASE_URL}assets/textures/products/prod_028.webp`,
+  '绿幽灵':`${import.meta.env.BASE_URL}assets/textures/products/prod_019.webp`,'紫水晶':`${import.meta.env.BASE_URL}assets/textures/products/prod_067.webp`,
+  '虎眼石':`${import.meta.env.BASE_URL}assets/textures/products/prod_084.webp`,'茶晶':`${import.meta.env.BASE_URL}assets/textures/products/prod_073.webp`,
+  '石榴石':`${import.meta.env.BASE_URL}assets/textures/products/prod_045.webp`,'海蓝宝':`${import.meta.env.BASE_URL}assets/textures/products/prod_039.webp`,
+  '粉水晶':`${import.meta.env.BASE_URL}assets/textures/products/prod_064.webp`,'红纹石':`${import.meta.env.BASE_URL}assets/textures/products/prod_078.webp`,
+  '草莓晶':`${import.meta.env.BASE_URL}assets/textures/products/prod_076.webp`,'橄榄石':`${import.meta.env.BASE_URL}assets/textures/products/prod_043.webp`,
 }
 
 /** 塔罗牌水晶名 → DIY 工具的分类名（不一致的做映射，其余按原名） */

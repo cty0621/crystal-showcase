@@ -131,7 +131,7 @@ export default function SelectionPanel({
                     <div key={bead.id} className="bead-card">
                       <img
                         className="bead-image"
-                        src={`/assets/textures/products/${bead.img}`}
+                        src={`${import.meta.env.BASE_URL}assets/textures/products/${bead.img}`}
                         alt={bead.name}
                         draggable={false}
                       />
