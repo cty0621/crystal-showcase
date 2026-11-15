@@ -39,7 +39,8 @@
       if (typeof b.img === 'string' && b.img) {
         var p = String(b.img).replace(/^\.?\//, '');
         p = p.replace(/^(img|images)\//, 'assets/');
-        b.thumbnail = p.charAt(0) === '/' ? p : '/' + p;
+        // 站点内路径用相对引用（兼容子目录部署）；完整 URL 原样保留
+        b.thumbnail = /^assets\//.test(p) ? './' + p : p;
       } else if (typeof b.id === 'string' && b.id) {
         var m = String(b.id).match(/^(prod_\d+)/);
         if (m) {
