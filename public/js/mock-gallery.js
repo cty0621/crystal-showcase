@@ -30,7 +30,7 @@
    * 或完全没有图片字段,导致画廊 SVG 渲染出 href="undefined"、珠子缺失。
    * 兼容三种情况:
    *   1. 有 img 字段 → 映射到 /assets/ 路径
-   *   2. 有 id 字段(如 "prod_052_8mm") → 推导 /assets/products/prod_052.png
+   *   2. 有 id 字段(如 "prod_052_8mm") → 推导 ./assets/textures/products/prod_052.png
    *   3. 两者皆无 → 保持原样(渲染端会跳过)
    */
   function normalizeBead(b) {
@@ -44,7 +44,7 @@
         var m = String(b.id).match(/^(prod_\d+)/);
         if (m) {
           var num = m[1].split('_')[1];
-          b.thumbnail = '/assets/products/prod_' + num + (JPG_ONLY[num] ? '.jpg' : '.png');
+          b.thumbnail = './assets/textures/products/prod_' + num + (JPG_ONLY[num] ? '.jpg' : '.png');
         }
       }
     }
@@ -66,35 +66,35 @@
 
   var B = {
     // 内置设计用珠子(bundle 常量)
-    ch: bead('prod_064_10mm', '星光粉晶', 'Star Rose Quartz', 10, 8, '/assets/products/prod_064.png'),
-    Gs: bead('prod_070_8mm', '薰衣草紫水晶', 'Lavender Amethyst', 8, 5, '/assets/products/prod_070.png'),
-    Js: bead('prod_080_8mm', '绿葡萄石', 'Prehnite', 8, 5, '/assets/products/prod_080.png'),
-    uh: bead('prod_054_8mm', '婚纱闪白阿塞', 'Bridal Sparkle White Azeztulita', 8, 5, '/assets/products/prod_054.jpg'),
-    Qe: bead('prod_052_10mm', '净体白水晶', 'Clear Quartz (Pure)', 10, 8, '/assets/products/prod_052.png'),
-    Bo: bead('prod_083_10mm', '玫瑰粉蔷薇石', 'Rose Pink Rhodonite', 10, 8, '/assets/products/prod_083.png'),
-    Mo: bead('prod_076_10mm', '豆沙红草莓晶', 'Red Strawberry Quartz (Bean Paste)', 10, 8, '/assets/products/prod_076.png'),
-    Tt: bead('prod_001_10mm', '红兔毛', 'Red Rabbit Hair Quartz', 10, 8, '/assets/products/prod_001.png'),
-    Fo: bead('prod_025_10mm', '白菩提', 'White Bodhi Seed', 10, 8, '/assets/products/prod_025.png'),
-    qo: { id: 'prod_046', name: '红玛瑙算盘珠', name_en: 'Red Agate Abacus Bead', size: 6, length: 3, width: 6, price: 3, thumbnail: '/assets/products/prod_046.png', preview: '/assets/products/prod_046.png' },
-    dh: bead('prod_027_12mm', '蜜蜡', 'Amber', 12, 12, '/assets/products/prod_027.png'),
-    Ho: bead('prod_019_10mm', '满天星绿幽灵', 'Green Phantom Quartz (Starry)', 10, 8, '/assets/products/prod_019.png'),
-    zo: bead('prod_008_10mm', '绿龙晶', 'Seraphinite', 10, 8, '/assets/products/prod_008.png'),
-    Wo: bead('prod_013_10mm', '绿发晶', 'Green Rutilated Quartz', 10, 8, '/assets/products/prod_013.png'),
-    Vo: bead('prod_032_10mm', '黑曜石', 'Obsidian', 10, 8, '/assets/products/prod_032.png'),
-    Dr: bead('prod_085_10mm', '金虎眼', "Golden Tiger's Eye", 10, 8, '/assets/products/prod_085.png'),
-    jr: bead('prod_073_10mm', '净体茶晶', 'Smoky Quartz (Pure)', 10, 8, '/assets/products/prod_073.png'),
-    hh: bead('prod_089_12mm', '黄塔晶', 'Citrine Tower', 12, 12, '/assets/products/prod_089.png'),
-    Ko: bead('prod_088_10mm', '透体柠檬黄水晶', 'Lemon Citrine (Transparent)', 10, 8, '/assets/products/prod_088.png'),
-    Ur: bead('prod_087_10mm', '黄虎眼', "Yellow Tiger's Eye", 10, 8, '/assets/products/prod_087.png'),
-    Go: bead('prod_014_10mm', '金发晶', 'Golden Rutilated Quartz', 10, 8, '/assets/products/prod_014.png'),
+    ch: bead('prod_064_10mm', '星光粉晶', 'Star Rose Quartz', 10, 8, './assets/textures/products/prod_064.png'),
+    Gs: bead('prod_070_8mm', '薰衣草紫水晶', 'Lavender Amethyst', 8, 5, './assets/textures/products/prod_070.png'),
+    Js: bead('prod_080_8mm', '绿葡萄石', 'Prehnite', 8, 5, './assets/textures/products/prod_080.png'),
+    uh: bead('prod_054_8mm', '婚纱闪白阿塞', 'Bridal Sparkle White Azeztulita', 8, 5, './assets/textures/products/prod_054.jpg'),
+    Qe: bead('prod_052_10mm', '净体白水晶', 'Clear Quartz (Pure)', 10, 8, './assets/textures/products/prod_052.png'),
+    Bo: bead('prod_083_10mm', '玫瑰粉蔷薇石', 'Rose Pink Rhodonite', 10, 8, './assets/textures/products/prod_083.png'),
+    Mo: bead('prod_076_10mm', '豆沙红草莓晶', 'Red Strawberry Quartz (Bean Paste)', 10, 8, './assets/textures/products/prod_076.png'),
+    Tt: bead('prod_001_10mm', '红兔毛', 'Red Rabbit Hair Quartz', 10, 8, './assets/textures/products/prod_001.png'),
+    Fo: bead('prod_025_10mm', '白菩提', 'White Bodhi Seed', 10, 8, './assets/textures/products/prod_025.png'),
+    qo: { id: 'prod_046', name: '红玛瑙算盘珠', name_en: 'Red Agate Abacus Bead', size: 6, length: 3, width: 6, price: 3, thumbnail: './assets/textures/products/prod_046.png', preview: './assets/textures/products/prod_046.png' },
+    dh: bead('prod_027_12mm', '蜜蜡', 'Amber', 12, 12, './assets/textures/products/prod_027.png'),
+    Ho: bead('prod_019_10mm', '满天星绿幽灵', 'Green Phantom Quartz (Starry)', 10, 8, './assets/textures/products/prod_019.png'),
+    zo: bead('prod_008_10mm', '绿龙晶', 'Seraphinite', 10, 8, './assets/textures/products/prod_008.png'),
+    Wo: bead('prod_013_10mm', '绿发晶', 'Green Rutilated Quartz', 10, 8, './assets/textures/products/prod_013.png'),
+    Vo: bead('prod_032_10mm', '黑曜石', 'Obsidian', 10, 8, './assets/textures/products/prod_032.png'),
+    Dr: bead('prod_085_10mm', '金虎眼', "Golden Tiger's Eye", 10, 8, './assets/textures/products/prod_085.png'),
+    jr: bead('prod_073_10mm', '净体茶晶', 'Smoky Quartz (Pure)', 10, 8, './assets/textures/products/prod_073.png'),
+    hh: bead('prod_089_12mm', '黄塔晶', 'Citrine Tower', 12, 12, './assets/textures/products/prod_089.png'),
+    Ko: bead('prod_088_10mm', '透体柠檬黄水晶', 'Lemon Citrine (Transparent)', 10, 8, './assets/textures/products/prod_088.png'),
+    Ur: bead('prod_087_10mm', '黄虎眼', "Yellow Tiger's Eye", 10, 8, './assets/textures/products/prod_087.png'),
+    Go: bead('prod_014_10mm', '金发晶', 'Golden Rutilated Quartz', 10, 8, './assets/textures/products/prod_014.png'),
     // 中文设计用珠子(8mm)
-    amethyst8: bead('prod_067_8mm', '乌拉圭紫水晶', 'Uruguayan Amethyst', 8, 5, '/assets/products/prod_067.png'),
-    moonstone8: bead('prod_034_8mm', '灰月光', 'Grey Moonstone', 8, 5, '/assets/products/prod_034.png'),
-    citrine8: bead('prod_088_8mm', '透体柠檬黄水晶', 'Lemon Citrine (Transparent)', 8, 5, '/assets/products/prod_088.png'),
-    clear8: bead('prod_052_8mm', '净体白水晶', 'Clear Quartz (Pure)', 8, 5, '/assets/products/prod_052.png'),
-    agate8: bead('prod_045_8mm', '红玛瑙', 'Red Agate', 8, 5, '/assets/products/prod_045.png'),
-    amazonite8: bead('prod_016_8mm', '天河石', 'Amazonite', 8, 5, '/assets/products/prod_016.png'),
-    amethyst10: bead('prod_067_10mm', '乌拉圭紫水晶', 'Uruguayan Amethyst', 10, 8, '/assets/products/prod_067.png'),
+    amethyst8: bead('prod_067_8mm', '乌拉圭紫水晶', 'Uruguayan Amethyst', 8, 5, './assets/textures/products/prod_067.png'),
+    moonstone8: bead('prod_034_8mm', '灰月光', 'Grey Moonstone', 8, 5, './assets/textures/products/prod_034.png'),
+    citrine8: bead('prod_088_8mm', '透体柠檬黄水晶', 'Lemon Citrine (Transparent)', 8, 5, './assets/textures/products/prod_088.png'),
+    clear8: bead('prod_052_8mm', '净体白水晶', 'Clear Quartz (Pure)', 8, 5, './assets/textures/products/prod_052.png'),
+    agate8: bead('prod_045_8mm', '红玛瑙', 'Red Agate', 8, 5, './assets/textures/products/prod_045.png'),
+    amazonite8: bead('prod_016_8mm', '天河石', 'Amazonite', 8, 5, './assets/textures/products/prod_016.png'),
+    amethyst10: bead('prod_067_10mm', '乌拉圭紫水晶', 'Uruguayan Amethyst', 10, 8, './assets/textures/products/prod_067.png'),
   };
 
   function rep(bead, count) {

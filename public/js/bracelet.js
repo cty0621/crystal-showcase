@@ -66,7 +66,7 @@ const BraceletRender = {
         if (!url) return url;
         if (!this.supportsWebp()) return url;
         if (typeof url !== 'string') return url;
-        if (!url.startsWith('/assets/products/')) return url;
+        if (!url.startsWith('./assets/textures/products/')) return url;
         if (!url.toLowerCase().endsWith('.png')) return url;
         return url.replace(/\.png$/i, '.webp');
     },
