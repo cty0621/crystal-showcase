@@ -4,7 +4,7 @@
       "id": "white_crystal",
       "name": "白水晶",
       "name_en": "Clear Quartz",
-      "icon": "/assets/products/prod_052.png",
+      "icon": "./assets/textures/products/prod_052.png",
       "beads": [
         {
           "id": "prod_052_6mm",
@@ -12,8 +12,8 @@
           "name_en": "Clear Quartz (Pure)",
           "size": 6,
           "price": 3,
-          "thumbnail": "/assets/products/prod_052.png",
-          "preview": "/assets/products/prod_052.png"
+          "thumbnail": "./assets/textures/products/prod_052.png",
+          "preview": "./assets/textures/products/prod_052.png"
         },
         {
           "id": "prod_052_8mm",
@@ -21,8 +21,8 @@
           "name_en": "Clear Quartz (Pure)",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_052.png",
-          "preview": "/assets/products/prod_052.png"
+          "thumbnail": "./assets/textures/products/prod_052.png",
+          "preview": "./assets/textures/products/prod_052.png"
         },
         {
           "id": "prod_052_10mm",
@@ -30,8 +30,8 @@
           "name_en": "Clear Quartz (Pure)",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_052.png",
-          "preview": "/assets/products/prod_052.png"
+          "thumbnail": "./assets/textures/products/prod_052.png",
+          "preview": "./assets/textures/products/prod_052.png"
         },
         {
           "id": "prod_052_12mm",
@@ -39,8 +39,8 @@
           "name_en": "Clear Quartz (Pure)",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_052.png",
-          "preview": "/assets/products/prod_052.png"
+          "thumbnail": "./assets/textures/products/prod_052.png",
+          "preview": "./assets/textures/products/prod_052.png"
         },
         {
           "id": "prod_053_8mm",
@@ -48,8 +48,8 @@
           "name_en": "Milky Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_053.png",
-          "preview": "/assets/products/prod_053.png"
+          "thumbnail": "./assets/textures/products/prod_053.png",
+          "preview": "./assets/textures/products/prod_053.png"
         },
         {
           "id": "prod_053_10mm",
@@ -57,8 +57,8 @@
           "name_en": "Milky Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_053.png",
-          "preview": "/assets/products/prod_053.png"
+          "thumbnail": "./assets/textures/products/prod_053.png",
+          "preview": "./assets/textures/products/prod_053.png"
         },
         {
           "id": "prod_053_12mm",
@@ -66,8 +66,8 @@
           "name_en": "Milky Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_053.png",
-          "preview": "/assets/products/prod_053.png"
+          "thumbnail": "./assets/textures/products/prod_053.png",
+          "preview": "./assets/textures/products/prod_053.png"
         },
         {
           "id": "prod_054_8mm",
@@ -75,8 +75,8 @@
           "name_en": "Bridal Sparkle White Azeztulite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_054.jpg",
-          "preview": "/assets/products/prod_054.jpg"
+          "thumbnail": "./assets/textures/products/prod_054.jpg",
+          "preview": "./assets/textures/products/prod_054.jpg"
         },
         {
           "id": "prod_054_10mm",
@@ -84,8 +84,8 @@
           "name_en": "Bridal Sparkle White Azeztulite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_054.jpg",
-          "preview": "/assets/products/prod_054.jpg"
+          "thumbnail": "./assets/textures/products/prod_054.jpg",
+          "preview": "./assets/textures/products/prod_054.jpg"
         },
         {
           "id": "prod_054_12mm",
@@ -93,8 +93,8 @@
           "name_en": "Bridal Sparkle White Azeztulite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_054.jpg",
-          "preview": "/assets/products/prod_054.jpg"
+          "thumbnail": "./assets/textures/products/prod_054.jpg",
+          "preview": "./assets/textures/products/prod_054.jpg"
         },
         {
           "id": "prod_057_12mm",
@@ -103,8 +103,8 @@
           "size": 12,
           "available": false,
           "price": 12,
-          "thumbnail": "/assets/products/prod_057.png",
-          "preview": "/assets/products/prod_057.png"
+          "thumbnail": "./assets/textures/products/prod_057.png",
+          "preview": "./assets/textures/products/prod_057.png"
         },
         {
           "id": "prod_058",
@@ -112,8 +112,8 @@
           "name_en": "Clear Quartz Freeform Cube",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_058.png",
-          "preview": "/assets/products/prod_058.png"
+          "thumbnail": "./assets/textures/products/prod_058.png",
+          "preview": "./assets/textures/products/prod_058.png"
         },
         {
           "id": "prod_059_10mm",
@@ -121,8 +121,8 @@
           "name_en": "Clear Quartz Cube (Small)",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_059.png",
-          "preview": "/assets/products/prod_059.png"
+          "thumbnail": "./assets/textures/products/prod_059.png",
+          "preview": "./assets/textures/products/prod_059.png"
         },
         {
           "id": "prod_059_14mm",
@@ -130,8 +130,8 @@
           "name_en": "Clear Quartz Cube (Large)",
           "size": 14,
           "price": 16,
-          "thumbnail": "/assets/products/prod_059.png",
-          "preview": "/assets/products/prod_059.png"
+          "thumbnail": "./assets/textures/products/prod_059.png",
+          "preview": "./assets/textures/products/prod_059.png"
         },
         {
           "id": "prod_060",
@@ -141,8 +141,8 @@
           "length": 5,
           "width": 9,
           "price": 3,
-          "thumbnail": "/assets/products/prod_060.png",
-          "preview": "/assets/products/prod_060.png"
+          "thumbnail": "./assets/textures/products/prod_060.png",
+          "preview": "./assets/textures/products/prod_060.png"
         },
         {
           "id": "prod_061_12mm",
@@ -151,8 +151,8 @@
           "size": 12,
           "available": false,
           "price": 12,
-          "thumbnail": "/assets/products/prod_061.png",
-          "preview": "/assets/products/prod_061.png"
+          "thumbnail": "./assets/textures/products/prod_061.png",
+          "preview": "./assets/textures/products/prod_061.png"
         },
         {
           "id": "prod_062",
@@ -162,8 +162,8 @@
           "length": 4,
           "width": 15,
           "price": 3,
-          "thumbnail": "/assets/products/prod_062.png",
-          "preview": "/assets/products/prod_062.png"
+          "thumbnail": "./assets/textures/products/prod_062.png",
+          "preview": "./assets/textures/products/prod_062.png"
         },
         {
           "id": "prod_063",
@@ -173,8 +173,8 @@
           "length": 10,
           "width": 8,
           "price": 8,
-          "thumbnail": "/assets/products/prod_063.png",
-          "preview": "/assets/products/prod_063.png"
+          "thumbnail": "./assets/textures/products/prod_063.png",
+          "preview": "./assets/textures/products/prod_063.png"
         },
         {
           "id": "prod_055_12mm",
@@ -183,8 +183,8 @@
           "size": 12,
           "available": false,
           "price": 12,
-          "thumbnail": "/assets/products/prod_055.png",
-          "preview": "/assets/products/prod_055.png"
+          "thumbnail": "./assets/textures/products/prod_055.png",
+          "preview": "./assets/textures/products/prod_055.png"
         },
         {
           "id": "prod_056_10mm",
@@ -192,8 +192,8 @@
           "name_en": "Faceted Clear Quartz Sugar Cube",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_056.png",
-          "preview": "/assets/products/prod_056.png"
+          "thumbnail": "./assets/textures/products/prod_056.png",
+          "preview": "./assets/textures/products/prod_056.png"
         }
       ]
     },
@@ -201,7 +201,7 @@
       "id": "purple_crystal",
       "name": "紫水晶",
       "name_en": "Amethyst",
-      "icon": "/assets/products/prod_067.png",
+      "icon": "./assets/textures/products/prod_067.png",
       "beads": [
         {
           "id": "prod_067_8mm",
@@ -209,8 +209,8 @@
           "name_en": "Uruguayan Amethyst",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_067.png",
-          "preview": "/assets/products/prod_067.png"
+          "thumbnail": "./assets/textures/products/prod_067.png",
+          "preview": "./assets/textures/products/prod_067.png"
         },
         {
           "id": "prod_067_10mm",
@@ -218,8 +218,8 @@
           "name_en": "Uruguayan Amethyst",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_067.png",
-          "preview": "/assets/products/prod_067.png"
+          "thumbnail": "./assets/textures/products/prod_067.png",
+          "preview": "./assets/textures/products/prod_067.png"
         },
         {
           "id": "prod_067_12mm",
@@ -227,8 +227,8 @@
           "name_en": "Uruguayan Amethyst",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_067.png",
-          "preview": "/assets/products/prod_067.png"
+          "thumbnail": "./assets/textures/products/prod_067.png",
+          "preview": "./assets/textures/products/prod_067.png"
         },
         {
           "id": "prod_068_8mm",
@@ -236,8 +236,8 @@
           "name_en": "Brazilian Ametrine",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_068.jpg",
-          "preview": "/assets/products/prod_068.jpg"
+          "thumbnail": "./assets/textures/products/prod_068.jpg",
+          "preview": "./assets/textures/products/prod_068.jpg"
         },
         {
           "id": "prod_068_10mm",
@@ -245,8 +245,8 @@
           "name_en": "Brazilian Ametrine",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_068.jpg",
-          "preview": "/assets/products/prod_068.jpg"
+          "thumbnail": "./assets/textures/products/prod_068.jpg",
+          "preview": "./assets/textures/products/prod_068.jpg"
         },
         {
           "id": "prod_068_12mm",
@@ -254,8 +254,8 @@
           "name_en": "Brazilian Ametrine",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_068.jpg",
-          "preview": "/assets/products/prod_068.jpg"
+          "thumbnail": "./assets/textures/products/prod_068.jpg",
+          "preview": "./assets/textures/products/prod_068.jpg"
         },
         {
           "id": "prod_069",
@@ -265,8 +265,8 @@
           "length": 4,
           "width": 15,
           "price": 3,
-          "thumbnail": "/assets/products/prod_069.png",
-          "preview": "/assets/products/prod_069.png"
+          "thumbnail": "./assets/textures/products/prod_069.png",
+          "preview": "./assets/textures/products/prod_069.png"
         },
         {
           "id": "prod_070_8mm",
@@ -274,8 +274,8 @@
           "name_en": "Lavender Amethyst",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_070.png",
-          "preview": "/assets/products/prod_070.png"
+          "thumbnail": "./assets/textures/products/prod_070.png",
+          "preview": "./assets/textures/products/prod_070.png"
         },
         {
           "id": "prod_070_10mm",
@@ -283,8 +283,8 @@
           "name_en": "Lavender Amethyst",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_070.png",
-          "preview": "/assets/products/prod_070.png"
+          "thumbnail": "./assets/textures/products/prod_070.png",
+          "preview": "./assets/textures/products/prod_070.png"
         },
         {
           "id": "prod_070_12mm",
@@ -292,8 +292,8 @@
           "name_en": "Lavender Amethyst",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_070.png",
-          "preview": "/assets/products/prod_070.png"
+          "thumbnail": "./assets/textures/products/prod_070.png",
+          "preview": "./assets/textures/products/prod_070.png"
         }
       ]
     },
@@ -301,7 +301,7 @@
       "id": "yellow_crystal",
       "name": "黄水晶",
       "name_en": "Citrine",
-      "icon": "/assets/products/prod_088.png",
+      "icon": "./assets/textures/products/prod_088.png",
       "beads": [
         {
           "id": "prod_088_8mm",
@@ -309,8 +309,8 @@
           "name_en": "Lemon Citrine (Transparent)",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_088.png",
-          "preview": "/assets/products/prod_088.png"
+          "thumbnail": "./assets/textures/products/prod_088.png",
+          "preview": "./assets/textures/products/prod_088.png"
         },
         {
           "id": "prod_088_10mm",
@@ -318,8 +318,8 @@
           "name_en": "Lemon Citrine (Transparent)",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_088.png",
-          "preview": "/assets/products/prod_088.png"
+          "thumbnail": "./assets/textures/products/prod_088.png",
+          "preview": "./assets/textures/products/prod_088.png"
         },
         {
           "id": "prod_088_12mm",
@@ -327,8 +327,8 @@
           "name_en": "Lemon Citrine (Transparent)",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_088.png",
-          "preview": "/assets/products/prod_088.png"
+          "thumbnail": "./assets/textures/products/prod_088.png",
+          "preview": "./assets/textures/products/prod_088.png"
         },
         {
           "id": "prod_089_8mm",
@@ -336,8 +336,8 @@
           "name_en": "Citrine Tower",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_089.png",
-          "preview": "/assets/products/prod_089.png"
+          "thumbnail": "./assets/textures/products/prod_089.png",
+          "preview": "./assets/textures/products/prod_089.png"
         },
         {
           "id": "prod_089_10mm",
@@ -345,8 +345,8 @@
           "name_en": "Citrine Tower",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_089.png",
-          "preview": "/assets/products/prod_089.png"
+          "thumbnail": "./assets/textures/products/prod_089.png",
+          "preview": "./assets/textures/products/prod_089.png"
         },
         {
           "id": "prod_089_12mm",
@@ -354,8 +354,8 @@
           "name_en": "Citrine Tower",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_089.png",
-          "preview": "/assets/products/prod_089.png"
+          "thumbnail": "./assets/textures/products/prod_089.png",
+          "preview": "./assets/textures/products/prod_089.png"
         },
         {
           "id": "prod_090_12mm",
@@ -364,8 +364,8 @@
           "size": 12,
           "available": false,
           "price": 12,
-          "thumbnail": "/assets/products/prod_090.png",
-          "preview": "/assets/products/prod_090.png"
+          "thumbnail": "./assets/textures/products/prod_090.png",
+          "preview": "./assets/textures/products/prod_090.png"
         }
       ]
     },
@@ -373,7 +373,7 @@
       "id": "pink_crystal",
       "name": "粉水晶",
       "name_en": "Rose Quartz",
-      "icon": "/assets/products/prod_064.png",
+      "icon": "./assets/textures/products/prod_064.png",
       "beads": [
         {
           "id": "prod_064_8mm",
@@ -381,8 +381,8 @@
           "name_en": "Star Rose Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_064.png",
-          "preview": "/assets/products/prod_064.png"
+          "thumbnail": "./assets/textures/products/prod_064.png",
+          "preview": "./assets/textures/products/prod_064.png"
         },
         {
           "id": "prod_064_10mm",
@@ -390,8 +390,8 @@
           "name_en": "Star Rose Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_064.png",
-          "preview": "/assets/products/prod_064.png"
+          "thumbnail": "./assets/textures/products/prod_064.png",
+          "preview": "./assets/textures/products/prod_064.png"
         },
         {
           "id": "prod_064_12mm",
@@ -399,8 +399,8 @@
           "name_en": "Star Rose Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_064.png",
-          "preview": "/assets/products/prod_064.png"
+          "thumbnail": "./assets/textures/products/prod_064.png",
+          "preview": "./assets/textures/products/prod_064.png"
         },
         {
           "id": "prod_065",
@@ -410,8 +410,8 @@
           "length": 10,
           "width": 8,
           "price": 8,
-          "thumbnail": "/assets/products/prod_065.png",
-          "preview": "/assets/products/prod_065.png"
+          "thumbnail": "./assets/textures/products/prod_065.png",
+          "preview": "./assets/textures/products/prod_065.png"
         },
         {
           "id": "prod_066_8mm",
@@ -419,8 +419,8 @@
           "name_en": "Purple Rose Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_066.png",
-          "preview": "/assets/products/prod_066.png"
+          "thumbnail": "./assets/textures/products/prod_066.png",
+          "preview": "./assets/textures/products/prod_066.png"
         },
         {
           "id": "prod_066_10mm",
@@ -428,8 +428,8 @@
           "name_en": "Purple Rose Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_066.png",
-          "preview": "/assets/products/prod_066.png"
+          "thumbnail": "./assets/textures/products/prod_066.png",
+          "preview": "./assets/textures/products/prod_066.png"
         },
         {
           "id": "prod_066_12mm",
@@ -437,8 +437,8 @@
           "name_en": "Purple Rose Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_066.png",
-          "preview": "/assets/products/prod_066.png"
+          "thumbnail": "./assets/textures/products/prod_066.png",
+          "preview": "./assets/textures/products/prod_066.png"
         }
       ]
     },
@@ -446,7 +446,7 @@
       "id": "tea_crystal",
       "name": "茶水晶",
       "name_en": "Smoky Quartz",
-      "icon": "/assets/products/prod_073.png",
+      "icon": "./assets/textures/products/prod_073.png",
       "beads": [
         {
           "id": "prod_073_8mm",
@@ -454,8 +454,8 @@
           "name_en": "Smoky Quartz (Pure)",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_073.png",
-          "preview": "/assets/products/prod_073.png"
+          "thumbnail": "./assets/textures/products/prod_073.png",
+          "preview": "./assets/textures/products/prod_073.png"
         },
         {
           "id": "prod_073_10mm",
@@ -463,8 +463,8 @@
           "name_en": "Smoky Quartz (Pure)",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_073.png",
-          "preview": "/assets/products/prod_073.png"
+          "thumbnail": "./assets/textures/products/prod_073.png",
+          "preview": "./assets/textures/products/prod_073.png"
         },
         {
           "id": "prod_073_12mm",
@@ -472,8 +472,8 @@
           "name_en": "Smoky Quartz (Pure)",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_073.png",
-          "preview": "/assets/products/prod_073.png"
+          "thumbnail": "./assets/textures/products/prod_073.png",
+          "preview": "./assets/textures/products/prod_073.png"
         },
         {
           "id": "prod_074_8mm",
@@ -481,8 +481,8 @@
           "name_en": "Faceted Smoky Quartz Diamond",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_074.png",
-          "preview": "/assets/products/prod_074.png"
+          "thumbnail": "./assets/textures/products/prod_074.png",
+          "preview": "./assets/textures/products/prod_074.png"
         },
         {
           "id": "prod_074_10mm",
@@ -490,8 +490,8 @@
           "name_en": "Faceted Smoky Quartz Diamond",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_074.png",
-          "preview": "/assets/products/prod_074.png"
+          "thumbnail": "./assets/textures/products/prod_074.png",
+          "preview": "./assets/textures/products/prod_074.png"
         },
         {
           "id": "prod_074_12mm",
@@ -499,8 +499,8 @@
           "name_en": "Faceted Smoky Quartz Diamond",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_074.png",
-          "preview": "/assets/products/prod_074.png"
+          "thumbnail": "./assets/textures/products/prod_074.png",
+          "preview": "./assets/textures/products/prod_074.png"
         },
         {
           "id": "prod_075",
@@ -510,8 +510,8 @@
           "length": 10,
           "width": 6,
           "price": 8,
-          "thumbnail": "/assets/products/prod_075.png",
-          "preview": "/assets/products/prod_075.png"
+          "thumbnail": "./assets/textures/products/prod_075.png",
+          "preview": "./assets/textures/products/prod_075.png"
         }
       ]
     },
@@ -519,7 +519,7 @@
       "id": "phantom_crystal",
       "name": "幽灵水晶",
       "name_en": "Phantom Quartz",
-      "icon": "/assets/products/prod_019.png",
+      "icon": "./assets/textures/products/prod_019.png",
       "beads": [
         {
           "id": "prod_019_8mm",
@@ -527,8 +527,8 @@
           "name_en": "Green Phantom Quartz (Starry)",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_019.png",
-          "preview": "/assets/products/prod_019.png"
+          "thumbnail": "./assets/textures/products/prod_019.png",
+          "preview": "./assets/textures/products/prod_019.png"
         },
         {
           "id": "prod_019_10mm",
@@ -536,8 +536,8 @@
           "name_en": "Green Phantom Quartz (Starry)",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_019.png",
-          "preview": "/assets/products/prod_019.png"
+          "thumbnail": "./assets/textures/products/prod_019.png",
+          "preview": "./assets/textures/products/prod_019.png"
         },
         {
           "id": "prod_019_12mm",
@@ -545,8 +545,8 @@
           "name_en": "Green Phantom Quartz (Starry)",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_019.png",
-          "preview": "/assets/products/prod_019.png"
+          "thumbnail": "./assets/textures/products/prod_019.png",
+          "preview": "./assets/textures/products/prod_019.png"
         },
         {
           "id": "prod_020_8mm",
@@ -554,8 +554,8 @@
           "name_en": "Purple Phantom Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_020.png",
-          "preview": "/assets/products/prod_020.png"
+          "thumbnail": "./assets/textures/products/prod_020.png",
+          "preview": "./assets/textures/products/prod_020.png"
         },
         {
           "id": "prod_020_10mm",
@@ -563,8 +563,8 @@
           "name_en": "Purple Phantom Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_020.png",
-          "preview": "/assets/products/prod_020.png"
+          "thumbnail": "./assets/textures/products/prod_020.png",
+          "preview": "./assets/textures/products/prod_020.png"
         },
         {
           "id": "prod_020_12mm",
@@ -572,8 +572,8 @@
           "name_en": "Purple Phantom Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_020.png",
-          "preview": "/assets/products/prod_020.png"
+          "thumbnail": "./assets/textures/products/prod_020.png",
+          "preview": "./assets/textures/products/prod_020.png"
         },
         {
           "id": "prod_021_8mm",
@@ -581,8 +581,8 @@
           "name_en": "Snowflake Phantom Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_021.png",
-          "preview": "/assets/products/prod_021.png"
+          "thumbnail": "./assets/textures/products/prod_021.png",
+          "preview": "./assets/textures/products/prod_021.png"
         },
         {
           "id": "prod_021_10mm",
@@ -590,8 +590,8 @@
           "name_en": "Snowflake Phantom Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_021.png",
-          "preview": "/assets/products/prod_021.png"
+          "thumbnail": "./assets/textures/products/prod_021.png",
+          "preview": "./assets/textures/products/prod_021.png"
         },
         {
           "id": "prod_021_12mm",
@@ -599,8 +599,8 @@
           "name_en": "Snowflake Phantom Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_021.png",
-          "preview": "/assets/products/prod_021.png"
+          "thumbnail": "./assets/textures/products/prod_021.png",
+          "preview": "./assets/textures/products/prod_021.png"
         }
       ]
     },
@@ -608,7 +608,7 @@
       "id": "rutilated_quartz",
       "name": "发晶",
       "name_en": "Rutilated Quartz",
-      "icon": "/assets/products/prod_013.png",
+      "icon": "./assets/textures/products/prod_013.png",
       "beads": [
         {
           "id": "prod_013_8mm",
@@ -616,8 +616,8 @@
           "name_en": "Green Rutilated Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_013.png",
-          "preview": "/assets/products/prod_013.png"
+          "thumbnail": "./assets/textures/products/prod_013.png",
+          "preview": "./assets/textures/products/prod_013.png"
         },
         {
           "id": "prod_013_10mm",
@@ -625,8 +625,8 @@
           "name_en": "Green Rutilated Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_013.png",
-          "preview": "/assets/products/prod_013.png"
+          "thumbnail": "./assets/textures/products/prod_013.png",
+          "preview": "./assets/textures/products/prod_013.png"
         },
         {
           "id": "prod_013_12mm",
@@ -634,8 +634,8 @@
           "name_en": "Green Rutilated Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_013.png",
-          "preview": "/assets/products/prod_013.png"
+          "thumbnail": "./assets/textures/products/prod_013.png",
+          "preview": "./assets/textures/products/prod_013.png"
         },
         {
           "id": "prod_014_8mm",
@@ -643,8 +643,8 @@
           "name_en": "Golden Rutilated Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_014.png",
-          "preview": "/assets/products/prod_014.png"
+          "thumbnail": "./assets/textures/products/prod_014.png",
+          "preview": "./assets/textures/products/prod_014.png"
         },
         {
           "id": "prod_014_10mm",
@@ -652,8 +652,8 @@
           "name_en": "Golden Rutilated Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_014.png",
-          "preview": "/assets/products/prod_014.png"
+          "thumbnail": "./assets/textures/products/prod_014.png",
+          "preview": "./assets/textures/products/prod_014.png"
         },
         {
           "id": "prod_014_12mm",
@@ -661,8 +661,8 @@
           "name_en": "Golden Rutilated Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_014.png",
-          "preview": "/assets/products/prod_014.png"
+          "thumbnail": "./assets/textures/products/prod_014.png",
+          "preview": "./assets/textures/products/prod_014.png"
         },
         {
           "id": "prod_015_8mm",
@@ -670,8 +670,8 @@
           "name_en": "Black Gold Super Seven",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_015.png",
-          "preview": "/assets/products/prod_015.png"
+          "thumbnail": "./assets/textures/products/prod_015.png",
+          "preview": "./assets/textures/products/prod_015.png"
         },
         {
           "id": "prod_015_10mm",
@@ -679,8 +679,8 @@
           "name_en": "Black Gold Super Seven",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_015.png",
-          "preview": "/assets/products/prod_015.png"
+          "thumbnail": "./assets/textures/products/prod_015.png",
+          "preview": "./assets/textures/products/prod_015.png"
         },
         {
           "id": "prod_015_12mm",
@@ -688,8 +688,8 @@
           "name_en": "Black Gold Super Seven",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_015.png",
-          "preview": "/assets/products/prod_015.png"
+          "thumbnail": "./assets/textures/products/prod_015.png",
+          "preview": "./assets/textures/products/prod_015.png"
         }
       ]
     },
@@ -697,7 +697,7 @@
       "id": "rabbit_hair_crystal",
       "name": "兔毛水晶",
       "name_en": "Rabbit Hair Quartz",
-      "icon": "/assets/products/prod_001.png",
+      "icon": "./assets/textures/products/prod_001.png",
       "beads": [
         {
           "id": "prod_001_8mm",
@@ -705,8 +705,8 @@
           "name_en": "Red Rabbit Hair Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_001.png",
-          "preview": "/assets/products/prod_001.png"
+          "thumbnail": "./assets/textures/products/prod_001.png",
+          "preview": "./assets/textures/products/prod_001.png"
         },
         {
           "id": "prod_001_10mm",
@@ -714,8 +714,8 @@
           "name_en": "Red Rabbit Hair Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_001.png",
-          "preview": "/assets/products/prod_001.png"
+          "thumbnail": "./assets/textures/products/prod_001.png",
+          "preview": "./assets/textures/products/prod_001.png"
         },
         {
           "id": "prod_001_12mm",
@@ -723,8 +723,8 @@
           "name_en": "Red Rabbit Hair Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_001.png",
-          "preview": "/assets/products/prod_001.png"
+          "thumbnail": "./assets/textures/products/prod_001.png",
+          "preview": "./assets/textures/products/prod_001.png"
         },
         {
           "id": "prod_002_8mm",
@@ -732,8 +732,8 @@
           "name_en": "Green Rabbit Hair Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_002.png",
-          "preview": "/assets/products/prod_002.png"
+          "thumbnail": "./assets/textures/products/prod_002.png",
+          "preview": "./assets/textures/products/prod_002.png"
         },
         {
           "id": "prod_002_10mm",
@@ -741,8 +741,8 @@
           "name_en": "Green Rabbit Hair Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_002.png",
-          "preview": "/assets/products/prod_002.png"
+          "thumbnail": "./assets/textures/products/prod_002.png",
+          "preview": "./assets/textures/products/prod_002.png"
         },
         {
           "id": "prod_002_12mm",
@@ -750,8 +750,8 @@
           "name_en": "Green Rabbit Hair Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_002.png",
-          "preview": "/assets/products/prod_002.png"
+          "thumbnail": "./assets/textures/products/prod_002.png",
+          "preview": "./assets/textures/products/prod_002.png"
         }
       ]
     },
@@ -759,7 +759,7 @@
       "id": "flower_crystal",
       "name": "胶花水晶",
       "name_en": "Garden Quartz",
-      "icon": "/assets/products/prod_071.png",
+      "icon": "./assets/textures/products/prod_071.png",
       "beads": [
         {
           "id": "prod_071_8mm",
@@ -767,8 +767,8 @@
           "name_en": "Red Garden Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_071.png",
-          "preview": "/assets/products/prod_071.png"
+          "thumbnail": "./assets/textures/products/prod_071.png",
+          "preview": "./assets/textures/products/prod_071.png"
         },
         {
           "id": "prod_071_10mm",
@@ -776,8 +776,8 @@
           "name_en": "Red Garden Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_071.png",
-          "preview": "/assets/products/prod_071.png"
+          "thumbnail": "./assets/textures/products/prod_071.png",
+          "preview": "./assets/textures/products/prod_071.png"
         },
         {
           "id": "prod_071_12mm",
@@ -785,8 +785,8 @@
           "name_en": "Red Garden Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_071.png",
-          "preview": "/assets/products/prod_071.png"
+          "thumbnail": "./assets/textures/products/prod_071.png",
+          "preview": "./assets/textures/products/prod_071.png"
         },
         {
           "id": "prod_072_8mm",
@@ -794,8 +794,8 @@
           "name_en": "Yellow Garden Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_072.png",
-          "preview": "/assets/products/prod_072.png"
+          "thumbnail": "./assets/textures/products/prod_072.png",
+          "preview": "./assets/textures/products/prod_072.png"
         },
         {
           "id": "prod_072_10mm",
@@ -803,8 +803,8 @@
           "name_en": "Yellow Garden Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_072.png",
-          "preview": "/assets/products/prod_072.png"
+          "thumbnail": "./assets/textures/products/prod_072.png",
+          "preview": "./assets/textures/products/prod_072.png"
         },
         {
           "id": "prod_072_12mm",
@@ -812,8 +812,8 @@
           "name_en": "Yellow Garden Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_072.png",
-          "preview": "/assets/products/prod_072.png"
+          "thumbnail": "./assets/textures/products/prod_072.png",
+          "preview": "./assets/textures/products/prod_072.png"
         }
       ]
     },
@@ -821,7 +821,7 @@
       "id": "aquamarine",
       "name": "海蓝宝",
       "name_en": "Aquamarine",
-      "icon": "/assets/products/prod_039.png",
+      "icon": "./assets/textures/products/prod_039.png",
       "beads": [
         {
           "id": "prod_039_8mm",
@@ -829,8 +829,8 @@
           "name_en": "Glacier Blue Aquamarine",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_039.png",
-          "preview": "/assets/products/prod_039.png"
+          "thumbnail": "./assets/textures/products/prod_039.png",
+          "preview": "./assets/textures/products/prod_039.png"
         },
         {
           "id": "prod_039_10mm",
@@ -838,8 +838,8 @@
           "name_en": "Glacier Blue Aquamarine",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_039.png",
-          "preview": "/assets/products/prod_039.png"
+          "thumbnail": "./assets/textures/products/prod_039.png",
+          "preview": "./assets/textures/products/prod_039.png"
         },
         {
           "id": "prod_039_12mm",
@@ -847,8 +847,8 @@
           "name_en": "Glacier Blue Aquamarine",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_039.png",
-          "preview": "/assets/products/prod_039.png"
+          "thumbnail": "./assets/textures/products/prod_039.png",
+          "preview": "./assets/textures/products/prod_039.png"
         },
         {
           "id": "prod_040_8mm",
@@ -856,8 +856,8 @@
           "name_en": "Sapphire Blue Aquamarine",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_040.png",
-          "preview": "/assets/products/prod_040.png"
+          "thumbnail": "./assets/textures/products/prod_040.png",
+          "preview": "./assets/textures/products/prod_040.png"
         },
         {
           "id": "prod_040_10mm",
@@ -865,8 +865,8 @@
           "name_en": "Sapphire Blue Aquamarine",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_040.png",
-          "preview": "/assets/products/prod_040.png"
+          "thumbnail": "./assets/textures/products/prod_040.png",
+          "preview": "./assets/textures/products/prod_040.png"
         },
         {
           "id": "prod_040_12mm",
@@ -874,8 +874,8 @@
           "name_en": "Sapphire Blue Aquamarine",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_040.png",
-          "preview": "/assets/products/prod_040.png"
+          "thumbnail": "./assets/textures/products/prod_040.png",
+          "preview": "./assets/textures/products/prod_040.png"
         },
         {
           "id": "prod_041_8mm",
@@ -883,8 +883,8 @@
           "name_en": "Cream Blue Aquamarine",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_041.png",
-          "preview": "/assets/products/prod_041.png"
+          "thumbnail": "./assets/textures/products/prod_041.png",
+          "preview": "./assets/textures/products/prod_041.png"
         },
         {
           "id": "prod_041_10mm",
@@ -892,8 +892,8 @@
           "name_en": "Cream Blue Aquamarine",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_041.png",
-          "preview": "/assets/products/prod_041.png"
+          "thumbnail": "./assets/textures/products/prod_041.png",
+          "preview": "./assets/textures/products/prod_041.png"
         },
         {
           "id": "prod_041_12mm",
@@ -901,8 +901,8 @@
           "name_en": "Cream Blue Aquamarine",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_041.png",
-          "preview": "/assets/products/prod_041.png"
+          "thumbnail": "./assets/textures/products/prod_041.png",
+          "preview": "./assets/textures/products/prod_041.png"
         },
         {
           "id": "prod_042",
@@ -912,8 +912,8 @@
           "length": 4,
           "width": 15,
           "price": 3,
-          "thumbnail": "/assets/products/prod_042.png",
-          "preview": "/assets/products/prod_042.png"
+          "thumbnail": "./assets/textures/products/prod_042.png",
+          "preview": "./assets/textures/products/prod_042.png"
         }
       ]
     },
@@ -921,7 +921,7 @@
       "id": "strawberry_quartz",
       "name": "草莓晶",
       "name_en": "Strawberry Quartz",
-      "icon": "/assets/products/prod_076.png",
+      "icon": "./assets/textures/products/prod_076.png",
       "beads": [
         {
           "id": "prod_076_8mm",
@@ -929,8 +929,8 @@
           "name_en": "Red Strawberry Quartz (Bean Paste)",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_076.png",
-          "preview": "/assets/products/prod_076.png"
+          "thumbnail": "./assets/textures/products/prod_076.png",
+          "preview": "./assets/textures/products/prod_076.png"
         },
         {
           "id": "prod_076_10mm",
@@ -938,8 +938,8 @@
           "name_en": "Red Strawberry Quartz (Bean Paste)",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_076.png",
-          "preview": "/assets/products/prod_076.png"
+          "thumbnail": "./assets/textures/products/prod_076.png",
+          "preview": "./assets/textures/products/prod_076.png"
         },
         {
           "id": "prod_076_12mm",
@@ -947,8 +947,8 @@
           "name_en": "Red Strawberry Quartz (Bean Paste)",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_076.png",
-          "preview": "/assets/products/prod_076.png"
+          "thumbnail": "./assets/textures/products/prod_076.png",
+          "preview": "./assets/textures/products/prod_076.png"
         },
         {
           "id": "prod_077_8mm",
@@ -956,8 +956,8 @@
           "name_en": "Pigeon Blood Red Strawberry Quartz",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_077.png",
-          "preview": "/assets/products/prod_077.png"
+          "thumbnail": "./assets/textures/products/prod_077.png",
+          "preview": "./assets/textures/products/prod_077.png"
         },
         {
           "id": "prod_077_10mm",
@@ -965,8 +965,8 @@
           "name_en": "Pigeon Blood Red Strawberry Quartz",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_077.png",
-          "preview": "/assets/products/prod_077.png"
+          "thumbnail": "./assets/textures/products/prod_077.png",
+          "preview": "./assets/textures/products/prod_077.png"
         },
         {
           "id": "prod_077_12mm",
@@ -974,8 +974,8 @@
           "name_en": "Pigeon Blood Red Strawberry Quartz",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_077.png",
-          "preview": "/assets/products/prod_077.png"
+          "thumbnail": "./assets/textures/products/prod_077.png",
+          "preview": "./assets/textures/products/prod_077.png"
         }
       ]
     },
@@ -983,7 +983,7 @@
       "id": "fluorite",
       "name": "萤石",
       "name_en": "Fluorite",
-      "icon": "/assets/products/prod_078.png",
+      "icon": "./assets/textures/products/prod_078.png",
       "beads": [
         {
           "id": "prod_078_8mm",
@@ -991,8 +991,8 @@
           "name_en": "Green Fluorite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_078.png",
-          "preview": "/assets/products/prod_078.png"
+          "thumbnail": "./assets/textures/products/prod_078.png",
+          "preview": "./assets/textures/products/prod_078.png"
         },
         {
           "id": "prod_078_10mm",
@@ -1000,8 +1000,8 @@
           "name_en": "Green Fluorite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_078.png",
-          "preview": "/assets/products/prod_078.png"
+          "thumbnail": "./assets/textures/products/prod_078.png",
+          "preview": "./assets/textures/products/prod_078.png"
         },
         {
           "id": "prod_078_12mm",
@@ -1009,8 +1009,8 @@
           "name_en": "Green Fluorite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_078.png",
-          "preview": "/assets/products/prod_078.png"
+          "thumbnail": "./assets/textures/products/prod_078.png",
+          "preview": "./assets/textures/products/prod_078.png"
         },
         {
           "id": "prod_079_8mm",
@@ -1018,8 +1018,8 @@
           "name_en": "Feather Fluorite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_079.png",
-          "preview": "/assets/products/prod_079.png"
+          "thumbnail": "./assets/textures/products/prod_079.png",
+          "preview": "./assets/textures/products/prod_079.png"
         },
         {
           "id": "prod_079_10mm",
@@ -1027,8 +1027,8 @@
           "name_en": "Feather Fluorite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_079.png",
-          "preview": "/assets/products/prod_079.png"
+          "thumbnail": "./assets/textures/products/prod_079.png",
+          "preview": "./assets/textures/products/prod_079.png"
         },
         {
           "id": "prod_079_12mm",
@@ -1036,8 +1036,8 @@
           "name_en": "Feather Fluorite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_079.png",
-          "preview": "/assets/products/prod_079.png"
+          "thumbnail": "./assets/textures/products/prod_079.png",
+          "preview": "./assets/textures/products/prod_079.png"
         }
       ]
     },
@@ -1045,7 +1045,7 @@
       "id": "obsidian",
       "name": "曜石",
       "name_en": "Obsidian",
-      "icon": "/assets/products/prod_028.png",
+      "icon": "./assets/textures/products/prod_028.png",
       "beads": [
         {
           "id": "prod_028_8mm",
@@ -1053,8 +1053,8 @@
           "name_en": "Ice Obsidian",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_028.png",
-          "preview": "/assets/products/prod_028.png"
+          "thumbnail": "./assets/textures/products/prod_028.png",
+          "preview": "./assets/textures/products/prod_028.png"
         },
         {
           "id": "prod_028_10mm",
@@ -1062,8 +1062,8 @@
           "name_en": "Ice Obsidian",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_028.png",
-          "preview": "/assets/products/prod_028.png"
+          "thumbnail": "./assets/textures/products/prod_028.png",
+          "preview": "./assets/textures/products/prod_028.png"
         },
         {
           "id": "prod_028_12mm",
@@ -1071,8 +1071,8 @@
           "name_en": "Ice Obsidian",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_028.png",
-          "preview": "/assets/products/prod_028.png"
+          "thumbnail": "./assets/textures/products/prod_028.png",
+          "preview": "./assets/textures/products/prod_028.png"
         },
         {
           "id": "prod_029_8mm",
@@ -1080,8 +1080,8 @@
           "name_en": "Golden Obsidian",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_029.png",
-          "preview": "/assets/products/prod_029.png"
+          "thumbnail": "./assets/textures/products/prod_029.png",
+          "preview": "./assets/textures/products/prod_029.png"
         },
         {
           "id": "prod_029_10mm",
@@ -1089,8 +1089,8 @@
           "name_en": "Golden Obsidian",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_029.png",
-          "preview": "/assets/products/prod_029.png"
+          "thumbnail": "./assets/textures/products/prod_029.png",
+          "preview": "./assets/textures/products/prod_029.png"
         },
         {
           "id": "prod_029_12mm",
@@ -1098,8 +1098,8 @@
           "name_en": "Golden Obsidian",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_029.png",
-          "preview": "/assets/products/prod_029.png"
+          "thumbnail": "./assets/textures/products/prod_029.png",
+          "preview": "./assets/textures/products/prod_029.png"
         },
         {
           "id": "prod_030_8mm",
@@ -1107,8 +1107,8 @@
           "name_en": "Silver Obsidian",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_030.png",
-          "preview": "/assets/products/prod_030.png"
+          "thumbnail": "./assets/textures/products/prod_030.png",
+          "preview": "./assets/textures/products/prod_030.png"
         },
         {
           "id": "prod_030_10mm",
@@ -1116,8 +1116,8 @@
           "name_en": "Silver Obsidian",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_030.png",
-          "preview": "/assets/products/prod_030.png"
+          "thumbnail": "./assets/textures/products/prod_030.png",
+          "preview": "./assets/textures/products/prod_030.png"
         },
         {
           "id": "prod_030_12mm",
@@ -1125,8 +1125,8 @@
           "name_en": "Silver Obsidian",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_030.png",
-          "preview": "/assets/products/prod_030.png"
+          "thumbnail": "./assets/textures/products/prod_030.png",
+          "preview": "./assets/textures/products/prod_030.png"
         },
         {
           "id": "prod_031_10mm",
@@ -1134,8 +1134,8 @@
           "name_en": "Silver Obsidian Barrel Bead",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_031.png",
-          "preview": "/assets/products/prod_031.png"
+          "thumbnail": "./assets/textures/products/prod_031.png",
+          "preview": "./assets/textures/products/prod_031.png"
         },
         {
           "id": "prod_032_8mm",
@@ -1143,8 +1143,8 @@
           "name_en": "Obsidian",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_032.png",
-          "preview": "/assets/products/prod_032.png"
+          "thumbnail": "./assets/textures/products/prod_032.png",
+          "preview": "./assets/textures/products/prod_032.png"
         },
         {
           "id": "prod_032_10mm",
@@ -1152,8 +1152,8 @@
           "name_en": "Obsidian",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_032.png",
-          "preview": "/assets/products/prod_032.png"
+          "thumbnail": "./assets/textures/products/prod_032.png",
+          "preview": "./assets/textures/products/prod_032.png"
         },
         {
           "id": "prod_032_12mm",
@@ -1161,8 +1161,8 @@
           "name_en": "Obsidian",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_032.png",
-          "preview": "/assets/products/prod_032.png"
+          "thumbnail": "./assets/textures/products/prod_032.png",
+          "preview": "./assets/textures/products/prod_032.png"
         },
         {
           "id": "prod_033_12mm",
@@ -1170,8 +1170,8 @@
           "name_en": "Faceted Obsidian Sphere",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_033.png",
-          "preview": "/assets/products/prod_033.png"
+          "thumbnail": "./assets/textures/products/prod_033.png",
+          "preview": "./assets/textures/products/prod_033.png"
         }
       ]
     },
@@ -1179,7 +1179,7 @@
       "id": "prehnite",
       "name": "葡萄石",
       "name_en": "Prehnite",
-      "icon": "/assets/products/prod_080.png",
+      "icon": "./assets/textures/products/prod_080.png",
       "beads": [
         {
           "id": "prod_080_8mm",
@@ -1187,8 +1187,8 @@
           "name_en": "Prehnite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_080.png",
-          "preview": "/assets/products/prod_080.png"
+          "thumbnail": "./assets/textures/products/prod_080.png",
+          "preview": "./assets/textures/products/prod_080.png"
         },
         {
           "id": "prod_080_10mm",
@@ -1196,8 +1196,8 @@
           "name_en": "Prehnite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_080.png",
-          "preview": "/assets/products/prod_080.png"
+          "thumbnail": "./assets/textures/products/prod_080.png",
+          "preview": "./assets/textures/products/prod_080.png"
         },
         {
           "id": "prod_080_12mm",
@@ -1205,8 +1205,8 @@
           "name_en": "Prehnite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_080.png",
-          "preview": "/assets/products/prod_080.png"
+          "thumbnail": "./assets/textures/products/prod_080.png",
+          "preview": "./assets/textures/products/prod_080.png"
         },
         {
           "id": "prod_081_8mm",
@@ -1214,8 +1214,8 @@
           "name_en": "Golden Prehnite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_081.png",
-          "preview": "/assets/products/prod_081.png"
+          "thumbnail": "./assets/textures/products/prod_081.png",
+          "preview": "./assets/textures/products/prod_081.png"
         },
         {
           "id": "prod_081_10mm",
@@ -1223,8 +1223,8 @@
           "name_en": "Golden Prehnite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_081.png",
-          "preview": "/assets/products/prod_081.png"
+          "thumbnail": "./assets/textures/products/prod_081.png",
+          "preview": "./assets/textures/products/prod_081.png"
         },
         {
           "id": "prod_081_12mm",
@@ -1232,8 +1232,8 @@
           "name_en": "Golden Prehnite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_081.png",
-          "preview": "/assets/products/prod_081.png"
+          "thumbnail": "./assets/textures/products/prod_081.png",
+          "preview": "./assets/textures/products/prod_081.png"
         }
       ]
     },
@@ -1241,7 +1241,7 @@
       "id": "amazonite",
       "name": "天河石",
       "name_en": "Amazonite",
-      "icon": "/assets/products/prod_016.png",
+      "icon": "./assets/textures/products/prod_016.png",
       "beads": [
         {
           "id": "prod_016_8mm",
@@ -1249,8 +1249,8 @@
           "name_en": "Amazonite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_016.png",
-          "preview": "/assets/products/prod_016.png"
+          "thumbnail": "./assets/textures/products/prod_016.png",
+          "preview": "./assets/textures/products/prod_016.png"
         },
         {
           "id": "prod_016_10mm",
@@ -1258,8 +1258,8 @@
           "name_en": "Amazonite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_016.png",
-          "preview": "/assets/products/prod_016.png"
+          "thumbnail": "./assets/textures/products/prod_016.png",
+          "preview": "./assets/textures/products/prod_016.png"
         },
         {
           "id": "prod_016_12mm",
@@ -1267,8 +1267,8 @@
           "name_en": "Amazonite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_016.png",
-          "preview": "/assets/products/prod_016.png"
+          "thumbnail": "./assets/textures/products/prod_016.png",
+          "preview": "./assets/textures/products/prod_016.png"
         }
       ]
     },
@@ -1276,7 +1276,7 @@
       "id": "tiger_eye",
       "name": "虎眼石",
       "name_en": "Tiger's Eye",
-      "icon": "/assets/products/prod_084.png",
+      "icon": "./assets/textures/products/prod_084.png",
       "beads": [
         {
           "id": "prod_084_8mm",
@@ -1284,8 +1284,8 @@
           "name_en": "Blue Tiger's Eye",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_084.png",
-          "preview": "/assets/products/prod_084.png"
+          "thumbnail": "./assets/textures/products/prod_084.png",
+          "preview": "./assets/textures/products/prod_084.png"
         },
         {
           "id": "prod_084_10mm",
@@ -1293,8 +1293,8 @@
           "name_en": "Blue Tiger's Eye",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_084.png",
-          "preview": "/assets/products/prod_084.png"
+          "thumbnail": "./assets/textures/products/prod_084.png",
+          "preview": "./assets/textures/products/prod_084.png"
         },
         {
           "id": "prod_084_12mm",
@@ -1302,8 +1302,8 @@
           "name_en": "Blue Tiger's Eye",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_084.png",
-          "preview": "/assets/products/prod_084.png"
+          "thumbnail": "./assets/textures/products/prod_084.png",
+          "preview": "./assets/textures/products/prod_084.png"
         },
         {
           "id": "prod_085_8mm",
@@ -1311,8 +1311,8 @@
           "name_en": "Golden Tiger's Eye",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_085.png",
-          "preview": "/assets/products/prod_085.png"
+          "thumbnail": "./assets/textures/products/prod_085.png",
+          "preview": "./assets/textures/products/prod_085.png"
         },
         {
           "id": "prod_085_10mm",
@@ -1320,8 +1320,8 @@
           "name_en": "Golden Tiger's Eye",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_085.png",
-          "preview": "/assets/products/prod_085.png"
+          "thumbnail": "./assets/textures/products/prod_085.png",
+          "preview": "./assets/textures/products/prod_085.png"
         },
         {
           "id": "prod_085_12mm",
@@ -1329,8 +1329,8 @@
           "name_en": "Golden Tiger's Eye",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_085.png",
-          "preview": "/assets/products/prod_085.png"
+          "thumbnail": "./assets/textures/products/prod_085.png",
+          "preview": "./assets/textures/products/prod_085.png"
         },
         {
           "id": "prod_086",
@@ -1338,8 +1338,8 @@
           "name_en": "Golden Tiger's Eye Freeform",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_086.png",
-          "preview": "/assets/products/prod_086.png"
+          "thumbnail": "./assets/textures/products/prod_086.png",
+          "preview": "./assets/textures/products/prod_086.png"
         },
         {
           "id": "prod_087_8mm",
@@ -1347,8 +1347,8 @@
           "name_en": "Yellow Tiger's Eye",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_087.png",
-          "preview": "/assets/products/prod_087.png"
+          "thumbnail": "./assets/textures/products/prod_087.png",
+          "preview": "./assets/textures/products/prod_087.png"
         },
         {
           "id": "prod_087_10mm",
@@ -1356,8 +1356,8 @@
           "name_en": "Yellow Tiger's Eye",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_087.png",
-          "preview": "/assets/products/prod_087.png"
+          "thumbnail": "./assets/textures/products/prod_087.png",
+          "preview": "./assets/textures/products/prod_087.png"
         },
         {
           "id": "prod_087_12mm",
@@ -1365,8 +1365,8 @@
           "name_en": "Yellow Tiger's Eye",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_087.png",
-          "preview": "/assets/products/prod_087.png"
+          "thumbnail": "./assets/textures/products/prod_087.png",
+          "preview": "./assets/textures/products/prod_087.png"
         }
       ]
     },
@@ -1374,7 +1374,7 @@
       "id": "sunstone",
       "name": "太阳石",
       "name_en": "Sunstone",
-      "icon": "/assets/products/prod_017.png",
+      "icon": "./assets/textures/products/prod_017.png",
       "beads": [
         {
           "id": "prod_017_8mm",
@@ -1382,8 +1382,8 @@
           "name_en": "Sunstone",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_017.png",
-          "preview": "/assets/products/prod_017.png"
+          "thumbnail": "./assets/textures/products/prod_017.png",
+          "preview": "./assets/textures/products/prod_017.png"
         },
         {
           "id": "prod_017_10mm",
@@ -1391,8 +1391,8 @@
           "name_en": "Sunstone",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_017.png",
-          "preview": "/assets/products/prod_017.png"
+          "thumbnail": "./assets/textures/products/prod_017.png",
+          "preview": "./assets/textures/products/prod_017.png"
         },
         {
           "id": "prod_017_12mm",
@@ -1400,8 +1400,8 @@
           "name_en": "Sunstone",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_017.png",
-          "preview": "/assets/products/prod_017.png"
+          "thumbnail": "./assets/textures/products/prod_017.png",
+          "preview": "./assets/textures/products/prod_017.png"
         },
         {
           "id": "prod_018_8mm",
@@ -1409,8 +1409,8 @@
           "name_en": "Golden Sunstone",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_018.png",
-          "preview": "/assets/products/prod_018.png"
+          "thumbnail": "./assets/textures/products/prod_018.png",
+          "preview": "./assets/textures/products/prod_018.png"
         },
         {
           "id": "prod_018_10mm",
@@ -1418,8 +1418,8 @@
           "name_en": "Golden Sunstone",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_018.png",
-          "preview": "/assets/products/prod_018.png"
+          "thumbnail": "./assets/textures/products/prod_018.png",
+          "preview": "./assets/textures/products/prod_018.png"
         },
         {
           "id": "prod_018_12mm",
@@ -1427,8 +1427,8 @@
           "name_en": "Golden Sunstone",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_018.png",
-          "preview": "/assets/products/prod_018.png"
+          "thumbnail": "./assets/textures/products/prod_018.png",
+          "preview": "./assets/textures/products/prod_018.png"
         }
       ]
     },
@@ -1436,7 +1436,7 @@
       "id": "moonstone",
       "name": "月光石",
       "name_en": "Moonstone",
-      "icon": "/assets/products/prod_034.png",
+      "icon": "./assets/textures/products/prod_034.png",
       "beads": [
         {
           "id": "prod_034_8mm",
@@ -1444,8 +1444,8 @@
           "name_en": "Grey Moonstone",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_034.png",
-          "preview": "/assets/products/prod_034.png"
+          "thumbnail": "./assets/textures/products/prod_034.png",
+          "preview": "./assets/textures/products/prod_034.png"
         },
         {
           "id": "prod_034_10mm",
@@ -1453,8 +1453,8 @@
           "name_en": "Grey Moonstone",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_034.png",
-          "preview": "/assets/products/prod_034.png"
+          "thumbnail": "./assets/textures/products/prod_034.png",
+          "preview": "./assets/textures/products/prod_034.png"
         },
         {
           "id": "prod_034_12mm",
@@ -1462,8 +1462,8 @@
           "name_en": "Grey Moonstone",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_034.png",
-          "preview": "/assets/products/prod_034.png"
+          "thumbnail": "./assets/textures/products/prod_034.png",
+          "preview": "./assets/textures/products/prod_034.png"
         },
         {
           "id": "prod_035_8mm",
@@ -1471,8 +1471,8 @@
           "name_en": "Blue Moonstone",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_035.png",
-          "preview": "/assets/products/prod_035.png"
+          "thumbnail": "./assets/textures/products/prod_035.png",
+          "preview": "./assets/textures/products/prod_035.png"
         },
         {
           "id": "prod_035_10mm",
@@ -1480,8 +1480,8 @@
           "name_en": "Blue Moonstone",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_035.png",
-          "preview": "/assets/products/prod_035.png"
+          "thumbnail": "./assets/textures/products/prod_035.png",
+          "preview": "./assets/textures/products/prod_035.png"
         },
         {
           "id": "prod_035_12mm",
@@ -1489,8 +1489,8 @@
           "name_en": "Blue Moonstone",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_035.png",
-          "preview": "/assets/products/prod_035.png"
+          "thumbnail": "./assets/textures/products/prod_035.png",
+          "preview": "./assets/textures/products/prod_035.png"
         }
       ]
     },
@@ -1498,7 +1498,7 @@
       "id": "rhodonite",
       "name": "蔷薇石",
       "name_en": "Rhodonite",
-      "icon": "/assets/products/prod_082.png",
+      "icon": "./assets/textures/products/prod_082.png",
       "beads": [
         {
           "id": "prod_082_8mm",
@@ -1506,8 +1506,8 @@
           "name_en": "Sakura Rain Rhodonite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_082.png",
-          "preview": "/assets/products/prod_082.png"
+          "thumbnail": "./assets/textures/products/prod_082.png",
+          "preview": "./assets/textures/products/prod_082.png"
         },
         {
           "id": "prod_082_10mm",
@@ -1515,8 +1515,8 @@
           "name_en": "Sakura Rain Rhodonite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_082.png",
-          "preview": "/assets/products/prod_082.png"
+          "thumbnail": "./assets/textures/products/prod_082.png",
+          "preview": "./assets/textures/products/prod_082.png"
         },
         {
           "id": "prod_082_12mm",
@@ -1524,8 +1524,8 @@
           "name_en": "Sakura Rain Rhodonite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_082.png",
-          "preview": "/assets/products/prod_082.png"
+          "thumbnail": "./assets/textures/products/prod_082.png",
+          "preview": "./assets/textures/products/prod_082.png"
         },
         {
           "id": "prod_083_8mm",
@@ -1533,8 +1533,8 @@
           "name_en": "Rose Pink Rhodonite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_083.png",
-          "preview": "/assets/products/prod_083.png"
+          "thumbnail": "./assets/textures/products/prod_083.png",
+          "preview": "./assets/textures/products/prod_083.png"
         },
         {
           "id": "prod_083_10mm",
@@ -1542,8 +1542,8 @@
           "name_en": "Rose Pink Rhodonite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_083.png",
-          "preview": "/assets/products/prod_083.png"
+          "thumbnail": "./assets/textures/products/prod_083.png",
+          "preview": "./assets/textures/products/prod_083.png"
         },
         {
           "id": "prod_083_12mm",
@@ -1551,8 +1551,8 @@
           "name_en": "Rose Pink Rhodonite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_083.png",
-          "preview": "/assets/products/prod_083.png"
+          "thumbnail": "./assets/textures/products/prod_083.png",
+          "preview": "./assets/textures/products/prod_083.png"
         }
       ]
     },
@@ -1560,7 +1560,7 @@
       "id": "jade",
       "name": "玉石",
       "name_en": "Jade",
-      "icon": "/assets/products/prod_043.png",
+      "icon": "./assets/textures/products/prod_043.png",
       "beads": [
         {
           "id": "prod_043_8mm",
@@ -1568,8 +1568,8 @@
           "name_en": "Hetian Jade",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_043.png",
-          "preview": "/assets/products/prod_043.png"
+          "thumbnail": "./assets/textures/products/prod_043.png",
+          "preview": "./assets/textures/products/prod_043.png"
         },
         {
           "id": "prod_043_10mm",
@@ -1577,8 +1577,8 @@
           "name_en": "Hetian Jade",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_043.png",
-          "preview": "/assets/products/prod_043.png"
+          "thumbnail": "./assets/textures/products/prod_043.png",
+          "preview": "./assets/textures/products/prod_043.png"
         },
         {
           "id": "prod_043_12mm",
@@ -1586,8 +1586,8 @@
           "name_en": "Hetian Jade",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_043.png",
-          "preview": "/assets/products/prod_043.png"
+          "thumbnail": "./assets/textures/products/prod_043.png",
+          "preview": "./assets/textures/products/prod_043.png"
         },
         {
           "id": "prod_044_8mm",
@@ -1595,8 +1595,8 @@
           "name_en": "Xiuyan Jade (Green)",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_044.png",
-          "preview": "/assets/products/prod_044.png"
+          "thumbnail": "./assets/textures/products/prod_044.png",
+          "preview": "./assets/textures/products/prod_044.png"
         },
         {
           "id": "prod_044_10mm",
@@ -1604,8 +1604,8 @@
           "name_en": "Xiuyan Jade (Green)",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_044.png",
-          "preview": "/assets/products/prod_044.png"
+          "thumbnail": "./assets/textures/products/prod_044.png",
+          "preview": "./assets/textures/products/prod_044.png"
         },
         {
           "id": "prod_044_12mm",
@@ -1613,8 +1613,8 @@
           "name_en": "Xiuyan Jade (Green)",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_044.png",
-          "preview": "/assets/products/prod_044.png"
+          "thumbnail": "./assets/textures/products/prod_044.png",
+          "preview": "./assets/textures/products/prod_044.png"
         }
       ]
     },
@@ -1622,7 +1622,7 @@
       "id": "agate",
       "name": "玛瑙",
       "name_en": "Agate",
-      "icon": "/assets/products/prod_045.png",
+      "icon": "./assets/textures/products/prod_045.png",
       "beads": [
         {
           "id": "prod_045_8mm",
@@ -1630,8 +1630,8 @@
           "name_en": "Red Agate",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_045.png",
-          "preview": "/assets/products/prod_045.png"
+          "thumbnail": "./assets/textures/products/prod_045.png",
+          "preview": "./assets/textures/products/prod_045.png"
         },
         {
           "id": "prod_045_10mm",
@@ -1639,8 +1639,8 @@
           "name_en": "Red Agate",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_045.png",
-          "preview": "/assets/products/prod_045.png"
+          "thumbnail": "./assets/textures/products/prod_045.png",
+          "preview": "./assets/textures/products/prod_045.png"
         },
         {
           "id": "prod_045_12mm",
@@ -1648,8 +1648,8 @@
           "name_en": "Red Agate",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_045.png",
-          "preview": "/assets/products/prod_045.png"
+          "thumbnail": "./assets/textures/products/prod_045.png",
+          "preview": "./assets/textures/products/prod_045.png"
         },
         {
           "id": "prod_046",
@@ -1659,8 +1659,8 @@
           "length": 3,
           "width": 6,
           "price": 3,
-          "thumbnail": "/assets/products/prod_046.png",
-          "preview": "/assets/products/prod_046.png"
+          "thumbnail": "./assets/textures/products/prod_046.png",
+          "preview": "./assets/textures/products/prod_046.png"
         },
         {
           "id": "prod_047_8mm",
@@ -1668,8 +1668,8 @@
           "name_en": "Green Agate",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_047.png",
-          "preview": "/assets/products/prod_047.png"
+          "thumbnail": "./assets/textures/products/prod_047.png",
+          "preview": "./assets/textures/products/prod_047.png"
         },
         {
           "id": "prod_047_10mm",
@@ -1677,8 +1677,8 @@
           "name_en": "Green Agate",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_047.png",
-          "preview": "/assets/products/prod_047.png"
+          "thumbnail": "./assets/textures/products/prod_047.png",
+          "preview": "./assets/textures/products/prod_047.png"
         },
         {
           "id": "prod_047_12mm",
@@ -1686,8 +1686,8 @@
           "name_en": "Green Agate",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_047.png",
-          "preview": "/assets/products/prod_047.png"
+          "thumbnail": "./assets/textures/products/prod_047.png",
+          "preview": "./assets/textures/products/prod_047.png"
         },
         {
           "id": "prod_048_8mm",
@@ -1695,8 +1695,8 @@
           "name_en": "Lychee White Chalcedony",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_048.png",
-          "preview": "/assets/products/prod_048.png"
+          "thumbnail": "./assets/textures/products/prod_048.png",
+          "preview": "./assets/textures/products/prod_048.png"
         },
         {
           "id": "prod_048_10mm",
@@ -1704,8 +1704,8 @@
           "name_en": "Lychee White Chalcedony",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_048.png",
-          "preview": "/assets/products/prod_048.png"
+          "thumbnail": "./assets/textures/products/prod_048.png",
+          "preview": "./assets/textures/products/prod_048.png"
         },
         {
           "id": "prod_048_12mm",
@@ -1713,8 +1713,8 @@
           "name_en": "Lychee White Chalcedony",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_048.png",
-          "preview": "/assets/products/prod_048.png"
+          "thumbnail": "./assets/textures/products/prod_048.png",
+          "preview": "./assets/textures/products/prod_048.png"
         },
         {
           "id": "prod_049_8mm",
@@ -1722,8 +1722,8 @@
           "name_en": "Blue Lace Agate",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_049.png",
-          "preview": "/assets/products/prod_049.png"
+          "thumbnail": "./assets/textures/products/prod_049.png",
+          "preview": "./assets/textures/products/prod_049.png"
         },
         {
           "id": "prod_049_10mm",
@@ -1731,8 +1731,8 @@
           "name_en": "Blue Lace Agate",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_049.png",
-          "preview": "/assets/products/prod_049.png"
+          "thumbnail": "./assets/textures/products/prod_049.png",
+          "preview": "./assets/textures/products/prod_049.png"
         },
         {
           "id": "prod_049_12mm",
@@ -1740,8 +1740,8 @@
           "name_en": "Blue Lace Agate",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_049.png",
-          "preview": "/assets/products/prod_049.png"
+          "thumbnail": "./assets/textures/products/prod_049.png",
+          "preview": "./assets/textures/products/prod_049.png"
         },
         {
           "id": "prod_050_8mm",
@@ -1749,8 +1749,8 @@
           "name_en": "Yellow Agate",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_050.png",
-          "preview": "/assets/products/prod_050.png"
+          "thumbnail": "./assets/textures/products/prod_050.png",
+          "preview": "./assets/textures/products/prod_050.png"
         },
         {
           "id": "prod_050_10mm",
@@ -1758,8 +1758,8 @@
           "name_en": "Yellow Agate",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_050.png",
-          "preview": "/assets/products/prod_050.png"
+          "thumbnail": "./assets/textures/products/prod_050.png",
+          "preview": "./assets/textures/products/prod_050.png"
         },
         {
           "id": "prod_050_12mm",
@@ -1767,8 +1767,8 @@
           "name_en": "Yellow Agate",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_050.png",
-          "preview": "/assets/products/prod_050.png"
+          "thumbnail": "./assets/textures/products/prod_050.png",
+          "preview": "./assets/textures/products/prod_050.png"
         },
         {
           "id": "prod_051_8mm",
@@ -1776,8 +1776,8 @@
           "name_en": "Black Agate",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_051.png",
-          "preview": "/assets/products/prod_051.png"
+          "thumbnail": "./assets/textures/products/prod_051.png",
+          "preview": "./assets/textures/products/prod_051.png"
         },
         {
           "id": "prod_051_10mm",
@@ -1785,8 +1785,8 @@
           "name_en": "Black Agate",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_051.png",
-          "preview": "/assets/products/prod_051.png"
+          "thumbnail": "./assets/textures/products/prod_051.png",
+          "preview": "./assets/textures/products/prod_051.png"
         },
         {
           "id": "prod_051_12mm",
@@ -1794,8 +1794,8 @@
           "name_en": "Black Agate",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_051.png",
-          "preview": "/assets/products/prod_051.png"
+          "thumbnail": "./assets/textures/products/prod_051.png",
+          "preview": "./assets/textures/products/prod_051.png"
         }
       ]
     },
@@ -1803,7 +1803,7 @@
       "id": "cinnabar",
       "name": "朱砂",
       "name_en": "Cinnabar",
-      "icon": "/assets/products/prod_036.jpg",
+      "icon": "./assets/textures/products/prod_036.jpg",
       "beads": [
         {
           "id": "prod_036_8mm",
@@ -1811,8 +1811,8 @@
           "name_en": "High-Content Imperial Sand",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_036.jpg",
-          "preview": "/assets/products/prod_036.jpg"
+          "thumbnail": "./assets/textures/products/prod_036.jpg",
+          "preview": "./assets/textures/products/prod_036.jpg"
         },
         {
           "id": "prod_036_10mm",
@@ -1820,8 +1820,8 @@
           "name_en": "High-Content Imperial Sand",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_036.jpg",
-          "preview": "/assets/products/prod_036.jpg"
+          "thumbnail": "./assets/textures/products/prod_036.jpg",
+          "preview": "./assets/textures/products/prod_036.jpg"
         },
         {
           "id": "prod_036_12mm",
@@ -1829,8 +1829,8 @@
           "name_en": "High-Content Imperial Sand",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_036.jpg",
-          "preview": "/assets/products/prod_036.jpg"
+          "thumbnail": "./assets/textures/products/prod_036.jpg",
+          "preview": "./assets/textures/products/prod_036.jpg"
         },
         {
           "id": "prod_037_8mm",
@@ -1838,8 +1838,8 @@
           "name_en": "High-Content Purple Gold Sand",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_037.png",
-          "preview": "/assets/products/prod_037.png"
+          "thumbnail": "./assets/textures/products/prod_037.png",
+          "preview": "./assets/textures/products/prod_037.png"
         },
         {
           "id": "prod_037_10mm",
@@ -1847,8 +1847,8 @@
           "name_en": "High-Content Purple Gold Sand",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_037.png",
-          "preview": "/assets/products/prod_037.png"
+          "thumbnail": "./assets/textures/products/prod_037.png",
+          "preview": "./assets/textures/products/prod_037.png"
         },
         {
           "id": "prod_037_12mm",
@@ -1856,8 +1856,8 @@
           "name_en": "High-Content Purple Gold Sand",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_037.png",
-          "preview": "/assets/products/prod_037.png"
+          "thumbnail": "./assets/textures/products/prod_037.png",
+          "preview": "./assets/textures/products/prod_037.png"
         },
         {
           "id": "prod_038_8mm",
@@ -1865,8 +1865,8 @@
           "name_en": "High-Content Red Sand",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_038.jpg",
-          "preview": "/assets/products/prod_038.jpg"
+          "thumbnail": "./assets/textures/products/prod_038.jpg",
+          "preview": "./assets/textures/products/prod_038.jpg"
         },
         {
           "id": "prod_038_10mm",
@@ -1874,8 +1874,8 @@
           "name_en": "High-Content Red Sand",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_038.jpg",
-          "preview": "/assets/products/prod_038.jpg"
+          "thumbnail": "./assets/textures/products/prod_038.jpg",
+          "preview": "./assets/textures/products/prod_038.jpg"
         },
         {
           "id": "prod_038_12mm",
@@ -1883,8 +1883,8 @@
           "name_en": "High-Content Red Sand",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_038.jpg",
-          "preview": "/assets/products/prod_038.jpg"
+          "thumbnail": "./assets/textures/products/prod_038.jpg",
+          "preview": "./assets/textures/products/prod_038.jpg"
         }
       ]
     },
@@ -1892,7 +1892,7 @@
       "id": "wooden_beads",
       "name": "文玩",
       "name_en": "Artisan Beads",
-      "icon": "/assets/products/prod_022.png",
+      "icon": "./assets/textures/products/prod_022.png",
       "beads": [
         {
           "id": "prod_022_8mm",
@@ -1900,8 +1900,8 @@
           "name_en": "Agarwood (Raw)",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_022.png",
-          "preview": "/assets/products/prod_022.png"
+          "thumbnail": "./assets/textures/products/prod_022.png",
+          "preview": "./assets/textures/products/prod_022.png"
         },
         {
           "id": "prod_022_10mm",
@@ -1909,8 +1909,8 @@
           "name_en": "Agarwood (Raw)",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_022.png",
-          "preview": "/assets/products/prod_022.png"
+          "thumbnail": "./assets/textures/products/prod_022.png",
+          "preview": "./assets/textures/products/prod_022.png"
         },
         {
           "id": "prod_022_12mm",
@@ -1918,8 +1918,8 @@
           "name_en": "Agarwood (Raw)",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_022.png",
-          "preview": "/assets/products/prod_022.png"
+          "thumbnail": "./assets/textures/products/prod_022.png",
+          "preview": "./assets/textures/products/prod_022.png"
         },
         {
           "id": "prod_023_8mm",
@@ -1927,8 +1927,8 @@
           "name_en": "Red Sandalwood",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_023.png",
-          "preview": "/assets/products/prod_023.png"
+          "thumbnail": "./assets/textures/products/prod_023.png",
+          "preview": "./assets/textures/products/prod_023.png"
         },
         {
           "id": "prod_023_10mm",
@@ -1936,8 +1936,8 @@
           "name_en": "Red Sandalwood",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_023.png",
-          "preview": "/assets/products/prod_023.png"
+          "thumbnail": "./assets/textures/products/prod_023.png",
+          "preview": "./assets/textures/products/prod_023.png"
         },
         {
           "id": "prod_023_12mm",
@@ -1945,8 +1945,8 @@
           "name_en": "Red Sandalwood",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_023.png",
-          "preview": "/assets/products/prod_023.png"
+          "thumbnail": "./assets/textures/products/prod_023.png",
+          "preview": "./assets/textures/products/prod_023.png"
         },
         {
           "id": "prod_024",
@@ -1956,8 +1956,8 @@
           "length": 4,
           "width": 9,
           "price": 3,
-          "thumbnail": "/assets/products/prod_024.png",
-          "preview": "/assets/products/prod_024.png"
+          "thumbnail": "./assets/textures/products/prod_024.png",
+          "preview": "./assets/textures/products/prod_024.png"
         },
         {
           "id": "prod_025_8mm",
@@ -1965,8 +1965,8 @@
           "name_en": "White Bodhi Seed",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_025.png",
-          "preview": "/assets/products/prod_025.png"
+          "thumbnail": "./assets/textures/products/prod_025.png",
+          "preview": "./assets/textures/products/prod_025.png"
         },
         {
           "id": "prod_025_10mm",
@@ -1974,8 +1974,8 @@
           "name_en": "White Bodhi Seed",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_025.png",
-          "preview": "/assets/products/prod_025.png"
+          "thumbnail": "./assets/textures/products/prod_025.png",
+          "preview": "./assets/textures/products/prod_025.png"
         },
         {
           "id": "prod_025_12mm",
@@ -1983,8 +1983,8 @@
           "name_en": "White Bodhi Seed",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_025.png",
-          "preview": "/assets/products/prod_025.png"
+          "thumbnail": "./assets/textures/products/prod_025.png",
+          "preview": "./assets/textures/products/prod_025.png"
         },
         {
           "id": "prod_026_8mm",
@@ -1992,8 +1992,8 @@
           "name_en": "Green Sandalwood",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_026.png",
-          "preview": "/assets/products/prod_026.png"
+          "thumbnail": "./assets/textures/products/prod_026.png",
+          "preview": "./assets/textures/products/prod_026.png"
         },
         {
           "id": "prod_026_10mm",
@@ -2001,8 +2001,8 @@
           "name_en": "Green Sandalwood",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_026.png",
-          "preview": "/assets/products/prod_026.png"
+          "thumbnail": "./assets/textures/products/prod_026.png",
+          "preview": "./assets/textures/products/prod_026.png"
         },
         {
           "id": "prod_026_12mm",
@@ -2010,8 +2010,8 @@
           "name_en": "Green Sandalwood",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_026.png",
-          "preview": "/assets/products/prod_026.png"
+          "thumbnail": "./assets/textures/products/prod_026.png",
+          "preview": "./assets/textures/products/prod_026.png"
         },
         {
           "id": "prod_027_8mm",
@@ -2019,8 +2019,8 @@
           "name_en": "Amber",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_027.png",
-          "preview": "/assets/products/prod_027.png"
+          "thumbnail": "./assets/textures/products/prod_027.png",
+          "preview": "./assets/textures/products/prod_027.png"
         },
         {
           "id": "prod_027_10mm",
@@ -2028,8 +2028,8 @@
           "name_en": "Amber",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_027.png",
-          "preview": "/assets/products/prod_027.png"
+          "thumbnail": "./assets/textures/products/prod_027.png",
+          "preview": "./assets/textures/products/prod_027.png"
         },
         {
           "id": "prod_027_12mm",
@@ -2037,8 +2037,8 @@
           "name_en": "Amber",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_027.png",
-          "preview": "/assets/products/prod_027.png"
+          "thumbnail": "./assets/textures/products/prod_027.png",
+          "preview": "./assets/textures/products/prod_027.png"
         }
       ]
     },
@@ -2046,7 +2046,7 @@
       "id": "others",
       "name": "其他",
       "name_en": "Others",
-      "icon": "/assets/products/prod_003.png",
+      "icon": "./assets/textures/products/prod_003.png",
       "beads": [
         {
           "id": "prod_003_8mm",
@@ -2054,8 +2054,8 @@
           "name_en": "Malachite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_003.png",
-          "preview": "/assets/products/prod_003.png"
+          "thumbnail": "./assets/textures/products/prod_003.png",
+          "preview": "./assets/textures/products/prod_003.png"
         },
         {
           "id": "prod_003_10mm",
@@ -2063,8 +2063,8 @@
           "name_en": "Malachite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_003.png",
-          "preview": "/assets/products/prod_003.png"
+          "thumbnail": "./assets/textures/products/prod_003.png",
+          "preview": "./assets/textures/products/prod_003.png"
         },
         {
           "id": "prod_003_12mm",
@@ -2072,8 +2072,8 @@
           "name_en": "Malachite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_003.png",
-          "preview": "/assets/products/prod_003.png"
+          "thumbnail": "./assets/textures/products/prod_003.png",
+          "preview": "./assets/textures/products/prod_003.png"
         },
         {
           "id": "prod_004_8mm",
@@ -2081,8 +2081,8 @@
           "name_en": "Larimar",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_004.png",
-          "preview": "/assets/products/prod_004.png"
+          "thumbnail": "./assets/textures/products/prod_004.png",
+          "preview": "./assets/textures/products/prod_004.png"
         },
         {
           "id": "prod_004_10mm",
@@ -2090,8 +2090,8 @@
           "name_en": "Larimar",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_004.png",
-          "preview": "/assets/products/prod_004.png"
+          "thumbnail": "./assets/textures/products/prod_004.png",
+          "preview": "./assets/textures/products/prod_004.png"
         },
         {
           "id": "prod_004_12mm",
@@ -2099,8 +2099,8 @@
           "name_en": "Larimar",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_004.png",
-          "preview": "/assets/products/prod_004.png"
+          "thumbnail": "./assets/textures/products/prod_004.png",
+          "preview": "./assets/textures/products/prod_004.png"
         },
         {
           "id": "prod_005_8mm",
@@ -2108,8 +2108,8 @@
           "name_en": "Garnet",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_005.png",
-          "preview": "/assets/products/prod_005.png"
+          "thumbnail": "./assets/textures/products/prod_005.png",
+          "preview": "./assets/textures/products/prod_005.png"
         },
         {
           "id": "prod_005_10mm",
@@ -2117,8 +2117,8 @@
           "name_en": "Garnet",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_005.png",
-          "preview": "/assets/products/prod_005.png"
+          "thumbnail": "./assets/textures/products/prod_005.png",
+          "preview": "./assets/textures/products/prod_005.png"
         },
         {
           "id": "prod_005_12mm",
@@ -2126,8 +2126,8 @@
           "name_en": "Garnet",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_005.png",
-          "preview": "/assets/products/prod_005.png"
+          "thumbnail": "./assets/textures/products/prod_005.png",
+          "preview": "./assets/textures/products/prod_005.png"
         },
         {
           "id": "prod_006_8mm",
@@ -2135,8 +2135,8 @@
           "name_en": "Kunzite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_006.png",
-          "preview": "/assets/products/prod_006.png"
+          "thumbnail": "./assets/textures/products/prod_006.png",
+          "preview": "./assets/textures/products/prod_006.png"
         },
         {
           "id": "prod_006_10mm",
@@ -2144,8 +2144,8 @@
           "name_en": "Kunzite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_006.png",
-          "preview": "/assets/products/prod_006.png"
+          "thumbnail": "./assets/textures/products/prod_006.png",
+          "preview": "./assets/textures/products/prod_006.png"
         },
         {
           "id": "prod_006_12mm",
@@ -2153,8 +2153,8 @@
           "name_en": "Kunzite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_006.png",
-          "preview": "/assets/products/prod_006.png"
+          "thumbnail": "./assets/textures/products/prod_006.png",
+          "preview": "./assets/textures/products/prod_006.png"
         },
         {
           "id": "prod_007_8mm",
@@ -2162,8 +2162,8 @@
           "name_en": "Rhodochrosite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_007.png",
-          "preview": "/assets/products/prod_007.png"
+          "thumbnail": "./assets/textures/products/prod_007.png",
+          "preview": "./assets/textures/products/prod_007.png"
         },
         {
           "id": "prod_007_10mm",
@@ -2171,8 +2171,8 @@
           "name_en": "Rhodochrosite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_007.png",
-          "preview": "/assets/products/prod_007.png"
+          "thumbnail": "./assets/textures/products/prod_007.png",
+          "preview": "./assets/textures/products/prod_007.png"
         },
         {
           "id": "prod_007_12mm",
@@ -2180,8 +2180,8 @@
           "name_en": "Rhodochrosite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_007.png",
-          "preview": "/assets/products/prod_007.png"
+          "thumbnail": "./assets/textures/products/prod_007.png",
+          "preview": "./assets/textures/products/prod_007.png"
         },
         {
           "id": "prod_008_8mm",
@@ -2189,8 +2189,8 @@
           "name_en": "Seraphinite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_008.png",
-          "preview": "/assets/products/prod_008.png"
+          "thumbnail": "./assets/textures/products/prod_008.png",
+          "preview": "./assets/textures/products/prod_008.png"
         },
         {
           "id": "prod_008_10mm",
@@ -2198,8 +2198,8 @@
           "name_en": "Seraphinite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_008.png",
-          "preview": "/assets/products/prod_008.png"
+          "thumbnail": "./assets/textures/products/prod_008.png",
+          "preview": "./assets/textures/products/prod_008.png"
         },
         {
           "id": "prod_008_12mm",
@@ -2207,8 +2207,8 @@
           "name_en": "Seraphinite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_008.png",
-          "preview": "/assets/products/prod_008.png"
+          "thumbnail": "./assets/textures/products/prod_008.png",
+          "preview": "./assets/textures/products/prod_008.png"
         },
         {
           "id": "prod_009_8mm",
@@ -2216,8 +2216,8 @@
           "name_en": "Kyanite",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_009.png",
-          "preview": "/assets/products/prod_009.png"
+          "thumbnail": "./assets/textures/products/prod_009.png",
+          "preview": "./assets/textures/products/prod_009.png"
         },
         {
           "id": "prod_009_10mm",
@@ -2225,8 +2225,8 @@
           "name_en": "Kyanite",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_009.png",
-          "preview": "/assets/products/prod_009.png"
+          "thumbnail": "./assets/textures/products/prod_009.png",
+          "preview": "./assets/textures/products/prod_009.png"
         },
         {
           "id": "prod_009_12mm",
@@ -2234,8 +2234,8 @@
           "name_en": "Kyanite",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_009.png",
-          "preview": "/assets/products/prod_009.png"
+          "thumbnail": "./assets/textures/products/prod_009.png",
+          "preview": "./assets/textures/products/prod_009.png"
         },
         {
           "id": "prod_010_8mm",
@@ -2243,8 +2243,8 @@
           "name_en": "Round Freshwater Pearl",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_010.png",
-          "preview": "/assets/products/prod_010.png"
+          "thumbnail": "./assets/textures/products/prod_010.png",
+          "preview": "./assets/textures/products/prod_010.png"
         },
         {
           "id": "prod_010_10mm",
@@ -2252,8 +2252,8 @@
           "name_en": "Round Freshwater Pearl",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_010.png",
-          "preview": "/assets/products/prod_010.png"
+          "thumbnail": "./assets/textures/products/prod_010.png",
+          "preview": "./assets/textures/products/prod_010.png"
         },
         {
           "id": "prod_010_12mm",
@@ -2261,8 +2261,8 @@
           "name_en": "Round Freshwater Pearl",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_010.png",
-          "preview": "/assets/products/prod_010.png"
+          "thumbnail": "./assets/textures/products/prod_010.png",
+          "preview": "./assets/textures/products/prod_010.png"
         },
         {
           "id": "prod_011_8mm",
@@ -2270,8 +2270,8 @@
           "name_en": "Lapis Lazuli",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_011.png",
-          "preview": "/assets/products/prod_011.png"
+          "thumbnail": "./assets/textures/products/prod_011.png",
+          "preview": "./assets/textures/products/prod_011.png"
         },
         {
           "id": "prod_011_10mm",
@@ -2279,8 +2279,8 @@
           "name_en": "Lapis Lazuli",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_011.png",
-          "preview": "/assets/products/prod_011.png"
+          "thumbnail": "./assets/textures/products/prod_011.png",
+          "preview": "./assets/textures/products/prod_011.png"
         },
         {
           "id": "prod_011_12mm",
@@ -2288,8 +2288,8 @@
           "name_en": "Lapis Lazuli",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_011.png",
-          "preview": "/assets/products/prod_011.png"
+          "thumbnail": "./assets/textures/products/prod_011.png",
+          "preview": "./assets/textures/products/prod_011.png"
         },
         {
           "id": "prod_012_8mm",
@@ -2297,8 +2297,8 @@
           "name_en": "Black Tourmaline",
           "size": 8,
           "price": 5,
-          "thumbnail": "/assets/products/prod_012.png",
-          "preview": "/assets/products/prod_012.png"
+          "thumbnail": "./assets/textures/products/prod_012.png",
+          "preview": "./assets/textures/products/prod_012.png"
         },
         {
           "id": "prod_012_10mm",
@@ -2306,8 +2306,8 @@
           "name_en": "Black Tourmaline",
           "size": 10,
           "price": 8,
-          "thumbnail": "/assets/products/prod_012.png",
-          "preview": "/assets/products/prod_012.png"
+          "thumbnail": "./assets/textures/products/prod_012.png",
+          "preview": "./assets/textures/products/prod_012.png"
         },
         {
           "id": "prod_012_12mm",
@@ -2315,8 +2315,8 @@
           "name_en": "Black Tourmaline",
           "size": 12,
           "price": 12,
-          "thumbnail": "/assets/products/prod_012.png",
-          "preview": "/assets/products/prod_012.png"
+          "thumbnail": "./assets/textures/products/prod_012.png",
+          "preview": "./assets/textures/products/prod_012.png"
         }
       ]
     }
