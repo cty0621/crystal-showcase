@@ -1,0 +1,17 @@
+# 依赖
+node_modules/
+
+# 构建产物（重新构建生成）
+dist/
+
+# npm 缓存误放目录
+%NODE_HOME%/
+
+# 日志
+*.log
+npm-debug.log*
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
