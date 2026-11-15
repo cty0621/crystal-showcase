@@ -1,0 +1,24 @@
+name: Deploy to GitHub Pages
+
+  on:
+    push:
+      branches: [main]
+
+  jobs:
+    build-and-deploy:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        - uses: actions/setup-node@v4
+          with:
+            node-version: 20
+        - name: 安装依赖（国内镜像）
+          run: npm install --registry=https://registry.npmmirror.com
+        - name: 构建（tsc 类型检查 → vite 打包 → assets 合入）
+          run: npm run build
+        - name: 部署到 pages 分支
+          uses: peaceiris/actions-gh-pages@v4
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: ./dist
+            publish_branch: pages
