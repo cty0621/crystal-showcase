@@ -49,7 +49,20 @@
         }
       }
     }
+    // 历史数据加固：浏览器旧缓存/sessionStorage 里可能残留站点根绝对路径
+    // 或旧目录前缀，统一改写为相对引用（完整 URL 不动）
+    if (typeof b.thumbnail === 'string') {
+      var t2 = b.thumbnail;
+      if (t2.charAt(0) === '/' && !/^\/\//.test(t2)) {
+        t2 = t2.replace(/^\/images\//, './assets/textures/');
+        if (t2.charAt(0) === '/') t2 = '.' + t2;
+        b.thumbnail = t2;
+      }
+    }
     if (!b.preview) b.preview = b.thumbnail;
+    else if (typeof b.preview === 'string' && b.preview.charAt(0) === '/' && !/^\/\//.test(b.preview)) {
+      b.preview = './' + b.preview.replace(/^\/images\//, 'assets/textures/').replace(/^\//, '');
+    }
     return b;
   }
 
